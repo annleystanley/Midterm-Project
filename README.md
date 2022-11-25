@@ -3,25 +3,31 @@ This repository cointains all the information you need to work on the Mid-Term p
 
 ## Hello and Welcome!!!
 
-The goal is to predict arrival delays of commercial flights. Often, there isn't much airlines can do to avoid the delays, therefore, they play an important role in both profits and loss of the airlines. It is critical for airlines to estimate flight delays as accurate as possible because the results can be applied to both, improvements in customer satisfaction and income of airline agencies.
+The idea of this project is to segment the neighborhoods of New York City into separate clusters and examine the information about them. A desirable intention is to create the neighborhood cluster’s based on the various information we are able to find, for example:
+
+- location
+- restaurants and different venue types
+    - [Foursquare](https://developer.foursquare.com/places)
+    - [Yelp](https://www.yelp.com/developers/documentation/v3/get_started)
+    - [Google Places API](https://developers.google.com/places/web-service/intro)
+- [Uber rides](https://data.world/data-society/uber-pickups-in-nyc) 
+- [meetups](https://www.meetup.com/meetup_api/)
+- There could be something interesting in [NYC Open Data](https://data.cityofnewyork.us/browse?sortBy=most_accessed&utf8=%E2%9C%93)
+- You can use different data that come to your mind as well
+
+**Do not include** any economic or demographic indicators in our input data. However, further examination might reveal if data above has any relationship with the diversity of a neighborhood and its economics.
+
 
 ### Files
 
-- **exploratory_analysis.ipynb**: this file contains 10 questions we need to answer during the data exploration phase. They will help us to understand the data and become familiar with different variables.
-- **modeling.ipynb**: this file contains instructions for modeling part of the project. We recommend to split modeling tasks into more notebooks.
-- **data_description.md**: when you need to look for any information regarding specific attributes in the data this is the file to look in.
-- **sample_submission.csv**: this file is the example of how the submission of the results should look like.
+- **data_preparation.ipynb** - contains further information about how to proceed with data preparation
+- **modeling.ipynb** - contains important information about the modeling part of the project
 
 ### Data
 
-We will be working with data from air travel industry. We will have four separate tables:
-
-1. **flights**: The departure and arrival information about flights in US in years 2018 and 2019.
-2. **fuel_comsumption**: The fuel comsumption of different airlines from years 2015-2019 aggregated per month.
-3. **passengers**: The passenger totals on different routes from years 2015-2019 aggregated per month.
-5. **flights_test**: The departure and arrival information about flights in US in January 2020. This table will be used for evaluation. For submission, we are required to predict delays on flights from first 7 days of 2020 (1st of January - 7th of January). We can find sample submission in file _sample_submission.csv_
-
-The data are stored in the Postgres database. You can see the information about the hostname and credentials [in Compass](https://data.compass.lighthouselabs.ca/23284197-327b-4c82-84fa-f220a40a7d1a). 
+- The NYC neighborhoods can be found [here](https://drive.google.com/file/d/16hGHxuPHDVVwlHhiZ5pFoNMfmGjh_JYb/view?usp=sharing).
+- [Average housing prices for Manhattan and Brooklyn](https://drive.google.com/file/d/17kDaedI8cBoZz8rKY7yZ0N-QNSLChQWR/view?usp=sharing) from July 2020 by [City Realty](https://www.cityrealty.com/nyc/market-insight/rental-building-offers/battery-park-city/map-average-nyc-rent-prices-july-2020-21-buildings-offering-free-rent/45084).
+- [Median housing prices for Manhattan and Brooklyn](https://drive.google.com/file/d/1EyXSpnV--2iYmYzlGZmMgonbW9jzJdcv/view?usp=sharing) from Feb 2021 by[Zumber](https://www.zumper.com/rent-research/new-york-ny).
 
 
 ### Presentation Guidelines
@@ -30,23 +36,25 @@ The main goal of this presentation is to prepare you for your **Demo Day** at th
 
 1. Spend **1 min** on project flow structure.
     Which steps does your project have?
-2. Spend **1 min** on showing insights and relationships you found in the data during exploratory data analysis.
+2. Spend **1 min** on showing different APIs and data sources you took the information and data from.
+    - were there any interesting findings you came up with during EDA?
 3. Results (**1 min**):
-    - what modeling and sampling techniques did you use?
+    - what clustering techniques did you use?
     - evaluation metrics
-4. **1 min** on Feature Importance
-    - mention interesting features you have created
-    - what are the most important features?
+    - how did you come up with the number of clusters?
+4. **1 min** on profiling of clusters
+    - what are the features that show the biggest difference across the clusters?
+    - what features are showing the biggest correlation with economic indicators?
 5. Explain the biggest challenges in **1 min**.
     - what would you do if you have a bit more time?
 
 
 ### Submission Guidelines
 
-1. Share the link to your project repository through Compass.
-2. The file with the same format as _sample_submission.csv_,  named **submission.csv** , that contains the predictions of delays for the first week of the year 2020 should be included in the repository as well.
+1. Share the link to your project repository through Compass
+2. The file `submission.csv` that contains two columns, name of the neighborhood and cluster_id, should be included in the repository.
 
 
 ### How to Start
 
-You should spend some time with the datasets on your own. Try to look for interesting relationships and information inside the tables. Once you are familiar with the data and information in there you can move on to the EDA tasks from us that will further help you to get familiar with the datasets. Afterward, you can move onto the data preparation and modeling steps. Make sure you have enough time to prepare you slides and presentation at the end.
+As the first step, we need to parse the original JSON file with the neighborhoods into the Pandas. Afterward, we can start to gather different data from various sources. Spend some time on research of different APIs that could be used. Information from all data sources need to be joined with the neighborhoods before we can proceed with feature engineering and clustering itself. Do not forget about visualizations of clusters and neighborhoods as well becaue there is a lot of things that can be done in this area.
