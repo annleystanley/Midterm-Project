@@ -1,0 +1,56 @@
+,Borough,Neighbourhood,Studio,1_Bed,2_Bed,3_Bed
+0,Manhattan,Chelsea,2794.0,4062,6997,11031.0
+1,Manhattan,East Village,2608.0,3280,4044,5289.0
+2,Manhattan,Flatiron/Union Square,3632.0,4645,8267,15969.0
+3,Manhattan,Gramercy Park,2569.0,3656,5413,7226.0
+4,Manhattan,Greenwich Village,2828.0,4116,8000,12418.0
+5,Manhattan,Battery Park City,2823.0,3573,6859,10574.0
+6,Manhattan,Financial District,2955.0,3965,6065,10653.0
+7,Manhattan,Lower East Side,2710.0,3524,4699,5543.0
+8,Manhattan,NoHo,5121.0,6117,9678,16413.0
+9,Manhattan,NoLiTa/Little Italy,2683.0,4280,4833,10648.0
+10,Manhattan,SoHo,3589.0,4556,9711,13621.0
+11,Manhattan,Tribeca,3502.0,5543,9650,15886.0
+12,Manhattan,West Village,2765.0,4169,7026,11903.0
+13,Manhattan,Beekman/Sutton Place,2676.0,3622,5217,6497.0
+14,Manhattan,Midtown East,2485.0,3613,6711,12280.0
+15,Manhattan,Midtown West,2589.0,3680,6138,14892.0
+16,Manhattan,Murray Hill,2474.0,3426,4653,6568.0
+17,Manhattan,Turtle Bay/United Nations,2237.0,3430,5133,12517.0
+18,Manhattan,Carnegie Hill,2307.0,3266,5547,11529.0
+19,Manhattan,Lenox Hill,2316.0,3277,5106,8553.0
+20,Manhattan,Park/Fifth Ave. to 79th St.,4289.0,4535,12173,26970.0
+21,Manhattan,Roosevelt Island,2696.0,3257,4411,5445.0
+22,Manhattan,Yorkville,2215.0,2838,4181,7084.0
+23,Manhattan,Broadway Corridor,2328.0,3851,4616,6197.0
+24,Manhattan,Central Park West,2362.0,3563,7266,14463.0
+25,Manhattan,Lincoln Center,2662.0,4033,6484,9851.0
+26,Manhattan,Morningside Heights,2329.0,2929,3179,4105.0
+27,Manhattan,Riverside Dr./West End Ave.,2330.0,3414,5966,9020.0
+28,Manhattan,East Harlem,2010.0,2367,3268,3880.0
+29,Manhattan,Hamilton Heights,1992.0,2118,2589,3174.0
+30,Manhattan,Harlem,1899.0,2389,3079,4148.0
+31,Manhattan,Inwood,1657.0,1876,2273,2570.0
+32,Manhattan,Washington Heights,1978.0,2039,2425,2859.0
+33,Brooklyn,Bedford-Stuyvesant,2044.0,2297,2611,3214.0
+34,Brooklyn,Boerum Hill,2092.0,2854,4356,4921.0
+35,Brooklyn,Brooklyn Heights,2509.0,3270,5983,8654.0
+36,Brooklyn,Bushwick,2050.0,2373,2749,2851.0
+37,Brooklyn,Carroll Gardens,2271.0,2634,3914,5027.0
+38,Brooklyn,Clinton Hill,2409.0,2776,3450,4204.0
+39,Brooklyn,Cobble Hill,2100.0,2734,4222,6122.0
+40,Brooklyn,Crown Heights,1806.0,2310,2582,3185.0
+41,Brooklyn,Downtown Brooklyn,2443.0,3218,4548,6048.0
+42,Brooklyn,DUMBO,3189.0,4132,6086,9144.0
+43,Brooklyn,Fort Greene,2957.0,2508,4213,6760.0
+44,Brooklyn,Gowanus,2293.0,2796,3588,3687.0
+45,Brooklyn,Greenpoint,2347.0,2812,3708,5278.0
+46,Brooklyn,Kensington,1724.0,1866,2925,3215.0
+47,Brooklyn,Park Slope,2795.0,2739,3422,4883.0
+48,Brooklyn,Prospect Heights,2393.0,2823,3621,4320.0
+49,Brooklyn,Prospect Lefferts Gardens,1933.0,2094,2911,3423.0
+50,Brooklyn,Red Hook,,2300,4287,
+51,Brooklyn,South Slope - Greenwood Heights,2400.0,2248,2780,4000.0
+52,Brooklyn,Sunset Park,1400.0,1912,2300,2500.0
+53,Brooklyn,Williamsburg,2712.0,3166,4043,5081.0
+54,Brooklyn,Windsor Terrace,1939.0,2563,2877,3679.0

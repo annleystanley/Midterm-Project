@@ -1,0 +1,206 @@
+,Neighbourhood,Studio,1_Bed,2_Bed
+0,Upper West Side,1975.0,2750.0,4350
+1,Bedford-Stuyvesant,1650.0,1975.0,2200
+2,Bushwick,1731.0,2150.0,2100
+3,Upper East Side,1898.0,2395.0,3295
+4,Williamsburg,2491.0,2500.0,2584
+5,Astoria,1575.0,1875.0,2200
+6,Hell's Kitchen,2012.0,2742.0,3900
+7,Crown Heights,1759.0,1850.0,2200
+8,Midtown East,2100.0,3208.0,4600
+9,Chelsea,2323.0,3125.0,4959
+10,Flatbush,1618.0,1800.0,2117
+11,Financial District,2195.0,3027.0,3650
+12,Long Island City,1971.0,2500.0,3300
+13,Flushing,1600.0,1750.0,2150
+14,West Harlem,1937.0,2647.0,2400
+15,Central Harlem,1713.0,2000.0,2667
+16,East Village,1850.0,2425.0,2933
+17,Murray Hill,2400.0,3350.0,4678
+18,Ridgewood,1811.0,1800.0,2000
+19,East Harlem,1600.0,2000.0,2300
+20,Park Slope,2100.0,2475.0,2700
+21,West Village,2300.0,3310.0,4995
+22,Washington Heights,1650.0,1775.0,2163
+23,Downtown Brooklyn,2310.0,3150.0,4057
+24,Rego Park,1673.0,1850.0,2300
+25,Kips Bay,2150.0,2698.0,3646
+26,Theater District,2423.0,3300.0,4850
+27,Greenpoint,2350.0,2400.0,2550
+28,NoMad,2970.0,4750.0,7150
+29,Bay Ridge,2038.0,1750.0,2109
+30,East New York,1575.0,1750.0,1995
+31,Elmhurst,1563.0,1800.0,2236
+32,Bowery,2500.0,2999.0,2850
+33,Clinton Hill,1900.0,2300.0,2950
+34,Tribeca,2538.0,3800.0,5625
+35,Forest Hills,1575.0,1900.0,2300
+36,East Flatbush,2700.0,1725.0,1950
+37,Gramercy Park,2400.0,3398.0,3630
+38,Lower East Side,2275.0,2375.0,3195
+39,Ocean Hill,1700.0,1800.0,2100
+40,Jackson Heights,1575.0,1800.0,2150
+41,Prospect Heights,1916.0,2375.0,2700
+42,Woodside,1550.0,1700.0,2173
+43,Greenwich Village,2300.0,3495.0,4500
+44,Sheepshead Bay,1570.0,1665.0,2200
+45,Bayside,1850.0,1850.0,2300
+46,Flatiron District,4098.0,5483.0,9295
+47,Sunset Park,5900.0,1725.0,1900
+48,Carroll Gardens,2175.0,2400.0,3000
+49,Soho,2400.0,2895.0,3850
+50,Maspeth,2000.0,1750.0,2000
+51,Battery Park City,2200.0,2733.0,4431
+52,Corona,1500.0,1600.0,1950
+53,Far Rockaway,1823.0,1775.0,2160
+54,Greenwood Heights,2100.0,1900.0,2100
+55,Boerum Hill,2446.0,2300.0,2750
+56,Jamaica,1600.0,1815.0,2200
+57,Gravesend,5800.0,1600.0,1838
+58,Briarwood,1438.0,1700.0,2050
+59,Canarsie,2000.0,1500.0,1950
+60,Garment District,2923.0,3175.0,4000
+61,NoLita,2487.0,3025.0,3500
+62,Kew Gardens,1450.0,1800.0,2125
+63,Fort Greene,2200.0,2500.0,3000
+64,Chinatown,3000.0,2850.0,2200
+65,Bensonhurst,4200.0,1500.0,1795
+66,Kew Gardens Hills,1450.0,1699.0,2100
+67,Glendale,1400.0,1675.0,2000
+68,Middle Village,1675.0,1800.0,2100
+69,Richmond Hill,2200.0,1695.0,1980
+70,Midwood,1600.0,1688.0,2000
+71,East Elmhurst,1375.0,1700.0,2000
+72,Inwood,1699.0,1733.0,2100
+73,Riverdale,2300.0,1850.0,2600
+74,Queens Village,2300.0,1650.0,2000
+75,St. Albans,1650.0,1450.0,2300
+76,Rochdale,2125.0,2100.0,2148
+77,Mott Haven,1627.0,1550.0,2295
+78,Dyker Heights,1475.0,1900.0,1900
+79,Cypress Hills,1800.0,1827.0,1993
+80,Two Bridges,1895.0,2500.0,3203
+81,Koreatown,1795.0,1555.0,2888
+82,Woodhaven,1500.0,1600.0,1925
+83,Wakefield,1750.0,1680.0,1800
+84,College Point,3000.0,1700.0,1900
+85,Rockaway Beach,1850.0,1650.0,2000
+86,Brownsville,2000.0,1780.0,1888
+87,Auburndale,1838.0,1675.0,2175
+88,Kensington,2200.0,1850.0,2123
+89,Brighton Beach,2050.0,1575.0,2050
+90,Bath Beach,1599.0,2600.0,1825
+91,Brooklyn Heights,2750.0,2000.0,3450
+92,Gowanus,1750.0,1945.0,2350
+93,Stapleton,3279.0,1600.0,3200
+94,Flatlands,1998.0,1653.0,2000
+95,South Ozone Park,1085.0,1600.0,1950
+96,South Jamaica,2275.0,1999.0,2100
+97,Ozone Park,1800.0,1888.0,2100
+98,Whitestone,1150.0,1700.0,2150
+99,Tompkinsville,1900.0,2325.0,2800
+100,Borough Park,2546.0,2000.0,1873
+101,Rosedale,1457.0,1700.0,1800
+102,Red Hook,1600.0,1750.0,2400
+103,Concourse Village,3098.0,1700.0,2195
+104,Throgs Neck,2288.0,1700.0,1950
+105,Williamsbridge,3650.0,1600.0,2100
+106,St. George,2400.0,1738.0,2298
+107,Laurelton,1350.0,3200.0,2000
+108,Glen Oaks,1575.0,2400.0,2000
+109,NoHo,2500.0,1750.0,7248
+110,Cobble Hill,1200.0,1650.0,2700
+111,Fresh Meadows,1450.0,1590.0,2200
+112,Pelham Bay,1945.0,1750.0,1950
+113,Mapleton,1500.0,2196.0,1750
+114,Bellerose,1700.0,3386.0,2200
+115,Windsor Terrace,1600.0,1600.0,2952
+116,DUMBO,1313.0,1650.0,5895
+117,Hollis,1600.0,1725.0,2000
+118,Concourse,1450.0,2250.0,2000
+119,Highbridge,1375.0,1650.0,1900
+120,Little Italy,1450.0,3000.0,3850
+121,Hillcrest,1413.0,3606.0,2100
+122,Brookville,1500.0,3623.0,2250
+123,South Beach,1575.0,1675.0,1800
+124,Civic Center,2839.0,1738.0,3690
+125,Stuyvesant Town - Peter Cooper Village,2250.0,1600.0,4100
+126,Central Park,1250.0,1635.0,3325
+127,Howard Beach,1100.0,1625.0,2200
+128,Jamaica Estates,1595.0,2058.0,2350
+129,Parkchester,1700.0,1700.0,1889
+130,Norwood,2700.0,1600.0,1895
+131,Allerton,1850.0,1400.0,1800
+132,Douglaston,1300.0,1700.0,2645
+133,Kingsbridge,947.0,1500.0,2198
+134,City Island,1650.0,1350.0,2350
+135,Great Kills,1400.0,1575.0,1750
+136,Clason Point,3000.0,1625.0,2100
+137,Crotona Park East,,1700.0,2000
+138,Morris Park,,1500.0,2050
+139,Mount Hope,,1875.0,1825
+140,Fordham Heights,,1250.0,2000
+141,New Brighton,,2400.0,1800
+142,Forest Park,,1600.0,2000
+143,Bergen Beach,,1600.0,1900
+144,Little Neck,,1875.0,3275
+145,Westerleigh,,1350.0,1800
+146,West Brighton,,1700.0,1800
+147,Jamaica Hills,,1525.0,2300
+148,Unionport,,1650.0,1775
+149,Van Nest,,1625.0,2200
+150,Hunts Point,,1550.0,1500
+151,Pomonok,,1688.0,2100
+152,Bedford Park,,2825.0,2100
+153,Marine Park,,2250.0,2100
+154,Morris Heights,,1685.0,1900
+155,New Dorp,,1450.0,1500
+156,Fordham Manor,,1300.0,2050
+157,Roosevelt Island,,2050.0,4478
+158,Coney Island,,1550.0,2400
+159,Mount Eden,,1300.0,2000
+160,New Springville,,1400.0,1850
+161,Silver Lake,,1300.0,2100
+162,Concord,,1700.0,1900
+163,Rosebank,,1775.0,1850
+164,Eltingville,,1899.0,1800
+165,Dongan Hills,,2400.0,1800
+166,Woodstock,,1395.0,1950
+167,Westchester Village,,1700.0,1725
+168,Manhattan Beach,,2300.0,2250
+169,Arden Heights,,1650.0,2250
+170,Pelham Parkway,,1450.0,2150
+171,Vinegar Hill,,1500.0,4500
+172,Floral Park,,1650.0,2300
+173,Oakwood,,1200.0,1725
+174,East Tremont,,1600.0,1800
+175,Mill Basin,,1400.0,1950
+176,Woodlawn Heights,,1650.0,2100
+177,Morrisania,,1500.0,1879
+178,Midland Beach,,1400.0,1700
+179,Prospect Park,,1400.0,4650
+180,University Heights,,1100.0,1995
+181,Belmont,,1400.0,1856
+182,Willowbrook,,1500.0,1550
+183,Melrose,,1550.0,2095
+184,Clearview,,1500.0,2300
+185,Gerritsen Beach,,1750.0,2600
+186,Marble Hill,,3350.0,1825
+187,Castle Hill,,1895.0,2300
+188,Graniteville,,1350.0,1850
+189,Bulls Head,,1975.0,1475
+190,Grant City,,1200.0,1900
+191,West Farms,,1600.0,1700
+192,Co-Op City,,1500.0,1575
+193,Foxhurst,,3395.0,1750
+194,Bronx Park,,,2929
+195,Fort Wadsworth,,,5595
+196,Holliswood,,,1852
+197,Flushing Meadows-Corona Park,,,2300
+198,Manor Heights,,,1450
+199,Blissville,,,2000
+200,Van Cortlandt Park,,,1983
+201,Castleton Corners,,,1400
+202,Brooklyn Navy Yard,,,5345
+203,Travis - Chelsea,,,1800
+204,Longwood,,,1377
