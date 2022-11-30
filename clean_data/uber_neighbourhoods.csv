@@ -1,0 +1,151 @@
+Borough,Neighbourhood,Month,Ride Count,Days/Mo,Avg Rides/Day
+Bronx,Bronx Park and Fordham,07,1,30,0.03333333333333333
+Bronx,Bronx Park and Fordham,09,1,31,0.03225806451612903
+Bronx,Crotona and Tremont,07,1,30,0.03333333333333333
+Bronx,HighBridge and Morrisania,04,1,31,0.03225806451612903
+Bronx,HighBridge and Morrisania,05,3,31,0.0967741935483871
+Bronx,HighBridge and Morrisania,06,3,30,0.1
+Bronx,HighBridge and Morrisania,07,4,30,0.13333333333333333
+Bronx,HighBridge and Morrisania,08,3,31,0.0967741935483871
+Bronx,HighBridge and Morrisania,09,7,30,0.23333333333333334
+Bronx,Hunts Point and Mott Haven,05,1,31,0.03225806451612903
+Bronx,Kingsbridge and Riverdale,05,2,31,0.06451612903225806
+Bronx,Kingsbridge and Riverdale,06,2,30,0.06666666666666667
+Bronx,Kingsbridge and Riverdale,07,1,30,0.03333333333333333
+Bronx,Kingsbridge and Riverdale,09,4,31,0.12903225806451613
+Brooklyn,Borough Park,04,1,30,0.03333333333333333
+Brooklyn,Borough Park,06,4,31,0.12903225806451613
+Brooklyn,Borough Park,07,1,31,0.03225806451612903
+Brooklyn,Borough Park,08,5,30,0.16666666666666666
+Brooklyn,Borough Park,09,4,30,0.13333333333333333
+Brooklyn,Bushwick and Williamsburg,04,13,31,0.41935483870967744
+Brooklyn,Bushwick and Williamsburg,05,11,30,0.36666666666666664
+Brooklyn,Bushwick and Williamsburg,06,15,31,0.4838709677419355
+Brooklyn,Bushwick and Williamsburg,07,33,31,1.064516129032258
+Brooklyn,Bushwick and Williamsburg,08,41,30,1.3666666666666667
+Brooklyn,Bushwick and Williamsburg,09,52,30,1.7333333333333334
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),04,20,31,0.6451612903225806
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),05,22,30,0.7333333333333333
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),06,31,31,1.0
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),07,38,31,1.2258064516129032
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),08,39,30,1.3
+Brooklyn,Central Brooklyn (Bedford Stuyvesant – Crown Heights),09,50,30,1.6666666666666667
+Brooklyn,East New York and New Lots,07,1,31,0.03225806451612903
+Brooklyn,Flatbush,04,5,30,0.16666666666666666
+Brooklyn,Flatbush,05,3,31,0.0967741935483871
+Brooklyn,Flatbush,06,5,31,0.16129032258064516
+Brooklyn,Flatbush,07,3,30,0.1
+Brooklyn,Flatbush,08,4,30,0.13333333333333333
+Brooklyn,Flatbush,09,3,31,0.0967741935483871
+Brooklyn,Greenpoint,04,59,30,1.9666666666666666
+Brooklyn,Greenpoint,05,58,31,1.8709677419354838
+Brooklyn,Greenpoint,06,57,31,1.8387096774193548
+Brooklyn,Greenpoint,07,79,30,2.6333333333333333
+Brooklyn,Greenpoint,08,111,30,3.7
+Brooklyn,Greenpoint,09,132,31,4.258064516129032
+Brooklyn,Northwest Brooklyn ,04,85,30,2.8333333333333335
+Brooklyn,Northwest Brooklyn ,05,109,31,3.5161290322580645
+Brooklyn,Northwest Brooklyn ,06,125,31,4.032258064516129
+Brooklyn,Northwest Brooklyn ,07,181,30,6.033333333333333
+Brooklyn,Northwest Brooklyn ,08,190,30,6.333333333333333
+Brooklyn,Northwest Brooklyn ,09,209,31,6.741935483870968
+Brooklyn,Southern Brooklyn,06,1,30,0.03333333333333333
+Brooklyn,Southern Brooklyn,07,5,31,0.16129032258064516
+Brooklyn,Southern Brooklyn,09,1,31,0.03225806451612903
+Brooklyn,Southwest Brooklyn,04,1,30,0.03333333333333333
+Brooklyn,Southwest Brooklyn,08,4,30,0.13333333333333333
+Brooklyn,Southwest Brooklyn,09,3,31,0.0967741935483871
+Brooklyn,Sunset Park,04,1,30,0.03333333333333333
+Brooklyn,Sunset Park,07,2,31,0.06451612903225806
+Brooklyn,Sunset Park,08,5,31,0.16129032258064516
+Brooklyn,Sunset Park,09,4,30,0.13333333333333333
+Manhattan,Central Harlem,04,10,30,0.3333333333333333
+Manhattan,Central Harlem,05,9,31,0.2903225806451613
+Manhattan,Central Harlem,06,8,30,0.26666666666666666
+Manhattan,Central Harlem,07,18,31,0.5806451612903226
+Manhattan,Central Harlem,08,22,31,0.7096774193548387
+Manhattan,Central Harlem,09,23,30,0.7666666666666667
+Manhattan,Chelsea and Clinton,04,594,30,19.8
+Manhattan,Chelsea and Clinton,05,641,31,20.677419354838708
+Manhattan,Chelsea and Clinton,06,682,30,22.733333333333334
+Manhattan,Chelsea and Clinton,07,792,31,25.548387096774192
+Manhattan,Chelsea and Clinton,08,745,31,24.032258064516128
+Manhattan,Chelsea and Clinton,09,960,30,32.0
+Manhattan,East Harlem,04,7,30,0.23333333333333334
+Manhattan,East Harlem,05,11,31,0.3548387096774194
+Manhattan,East Harlem,06,16,30,0.5333333333333333
+Manhattan,East Harlem,07,22,31,0.7096774193548387
+Manhattan,East Harlem,08,21,31,0.6774193548387096
+Manhattan,East Harlem,09,20,30,0.6666666666666666
+Manhattan,Gramercy Park and Murray Hill,04,372,30,12.4
+Manhattan,Gramercy Park and Murray Hill,05,452,31,14.580645161290322
+Manhattan,Gramercy Park and Murray Hill,06,476,30,15.866666666666667
+Manhattan,Gramercy Park and Murray Hill,07,511,31,16.483870967741936
+Manhattan,Gramercy Park and Murray Hill,08,460,31,14.838709677419354
+Manhattan,Gramercy Park and Murray Hill,09,595,30,19.833333333333332
+Manhattan,Greenwich Village and Soho,04,368,30,12.266666666666667
+Manhattan,Greenwich Village and Soho,05,446,31,14.387096774193548
+Manhattan,Greenwich Village and Soho,06,423,30,14.1
+Manhattan,Greenwich Village and Soho,07,492,31,15.870967741935484
+Manhattan,Greenwich Village and Soho,08,487,31,15.709677419354838
+Manhattan,Greenwich Village and Soho,09,609,30,20.3
+Manhattan,Inwood and Washington Heights,04,1,30,0.03333333333333333
+Manhattan,Inwood and Washington Heights,05,6,31,0.1935483870967742
+Manhattan,Inwood and Washington Heights,07,12,30,0.4
+Manhattan,Inwood and Washington Heights,08,5,31,0.16129032258064516
+Manhattan,Inwood and Washington Heights,09,11,31,0.3548387096774194
+Manhattan,Lower Manhattan,04,108,30,3.6
+Manhattan,Lower Manhattan,05,116,30,3.8666666666666667
+Manhattan,Lower Manhattan,06,114,31,3.6774193548387095
+Manhattan,Lower Manhattan,07,127,30,4.233333333333333
+Manhattan,Lower Manhattan,08,176,31,5.67741935483871
+Manhattan,Lower Manhattan,09,168,31,5.419354838709677
+Manhattan,Union Square and Lower East Side,04,242,30,8.066666666666666
+Manhattan,Union Square and Lower East Side,05,278,30,9.266666666666667
+Manhattan,Union Square and Lower East Side,06,235,31,7.580645161290323
+Manhattan,Union Square and Lower East Side,07,312,30,10.4
+Manhattan,Union Square and Lower East Side,08,349,31,11.258064516129032
+Manhattan,Union Square and Lower East Side,09,426,31,13.741935483870968
+Manhattan,Upper East Side,04,214,30,7.133333333333334
+Manhattan,Upper East Side,05,235,30,7.833333333333333
+Manhattan,Upper East Side,06,237,31,7.645161290322581
+Manhattan,Upper East Side,07,273,30,9.1
+Manhattan,Upper East Side,08,221,31,7.129032258064516
+Manhattan,Upper East Side,09,352,31,11.35483870967742
+Manhattan,Upper West Side,04,118,30,3.933333333333333
+Manhattan,Upper West Side,05,151,30,5.033333333333333
+Manhattan,Upper West Side,06,144,31,4.645161290322581
+Manhattan,Upper West Side,07,169,30,5.633333333333334
+Manhattan,Upper West Side,08,158,31,5.096774193548387
+Manhattan,Upper West Side,09,251,31,8.096774193548388
+Queens,Central Queens,04,1,30,0.03333333333333333
+Queens,Jamaica,06,1,30,0.03333333333333333
+Queens,Jamaica,07,2,31,0.06451612903225806
+Queens,Jamaica,08,1,30,0.03333333333333333
+Queens,Jamaica,09,2,31,0.06451612903225806
+Queens,Long Island City and Astoria,04,16,31,0.5161290322580645
+Queens,Long Island City and Astoria,05,15,30,0.5
+Queens,Long Island City and Astoria,06,23,30,0.7666666666666667
+Queens,Long Island City and Astoria,07,17,31,0.5483870967741935
+Queens,Long Island City and Astoria,08,34,30,1.1333333333333333
+Queens,Long Island City and Astoria,09,31,31,1.0
+Queens,North Queens,05,1,31,0.03225806451612903
+Queens,North Queens,06,1,30,0.03333333333333333
+Queens,North Queens,08,3,30,0.1
+Queens,North Queens,09,1,31,0.03225806451612903
+Queens,Southwest Queens,08,1,30,0.03333333333333333
+Queens,West Central Queens,06,3,31,0.0967741935483871
+Queens,West Central Queens,07,1,31,0.03225806451612903
+Queens,West Central Queens,08,2,30,0.06666666666666667
+Queens,West Queens,04,1,30,0.03333333333333333
+Queens,West Queens,05,7,31,0.22580645161290322
+Queens,West Queens,06,6,30,0.2
+Queens,West Queens,07,6,31,0.1935483870967742
+Queens,West Queens,08,18,31,0.5806451612903226
+Queens,West Queens,09,11,30,0.36666666666666664
+Staten Island,Stapleton and St. George,04,2,30,0.06666666666666667
+Staten Island,Stapleton and St. George,05,2,31,0.06451612903225806
+Staten Island,Stapleton and St. George,06,2,30,0.06666666666666667
+Staten Island,Stapleton and St. George,07,2,31,0.06451612903225806
+Staten Island,Stapleton and St. George,08,5,31,0.16129032258064516
+Staten Island,Stapleton and St. George,09,2,30,0.06666666666666667
