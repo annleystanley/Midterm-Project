@@ -1,43 +1,160 @@
-Neighbourhood,Distance (m),Name,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough
-Borough Park,0,82,82,51,51,0,82,82,82
-Bronx Park and Fordham,0,83,83,66,66,0,83,83,83
-Bushwick and Williamsburg,0,53,53,34,34,0,53,53,53
-Canarsie and Flatlands,0,105,105,64,64,0,105,105,105
-Central Brooklyn (Bedford Stuyvesant – Crown Heights),0,107,107,79,79,0,107,107,107
-Central Harlem,0,31,31,24,24,0,31,31,31
-Central Queens,0,79,79,49,49,0,79,79,79
-Chelsea and Clinton,0,94,94,58,58,0,94,94,94
-Crotona and Tremont,0,69,69,57,57,0,69,69,69
-East Harlem,0,19,19,16,16,0,19,19,19
-East New York and New Lots,0,83,83,54,54,0,83,83,83
-Flatbush,0,105,105,82,82,0,105,105,105
-Gramercy Park and Murray Hill,0,50,50,36,36,0,50,50,50
-Greenpoint,0,41,41,29,29,0,41,41,41
-Greenwich Village and Soho,0,25,25,17,17,0,25,25,25
-HighBridge and Morrisania,0,51,51,42,42,0,51,51,51
-Hunts Point and Mott Haven,0,66,66,47,47,0,66,66,66
-Inwood and Washington Heights,0,53,53,40,40,0,53,53,53
-Jamaica,0,132,132,84,84,0,132,132,132
-Kingsbridge and Riverdale,0,61,61,42,42,0,61,61,61
-Long Island City and Astoria,0,105,105,71,71,0,105,105,105
-Lower Manhattan,0,28,28,18,18,0,28,28,28
-Mid-Island (Willowbrook),0,94,94,43,43,0,94,94,94
-North Queens,0,138,138,84,84,0,138,138,138
-Northeast Bronx,0,101,101,69,69,0,101,101,101
-Northeast Queens,0,65,65,33,33,0,65,65,65
-Northwest Brooklyn ,0,136,136,105,105,1,136,136,136
-Pelham and Throgs Neck,0,160,160,105,105,0,160,160,160
-Port Richmond,0,56,56,35,35,0,56,56,56
-Rockaways,0,84,84,42,42,0,84,84,84
-South Beach and Tottenville,0,82,82,40,40,0,82,82,82
-Southeast Queens,0,129,129,69,69,0,129,129,129
-Southern Brooklyn,0,155,155,96,96,0,155,155,155
-Southwest Brooklyn,0,71,71,56,56,0,71,71,71
-Southwest Queens,0,102,102,62,62,0,102,102,102
-Stapleton and St. George,0,141,141,75,75,0,141,141,141
-Sunset Park,0,20,20,12,12,1,20,20,20
-Union Square and Lower East Side,0,48,48,40,40,0,48,48,48
-Upper East Side,0,59,59,54,54,0,59,59,59
-Upper West Side,0,53,53,45,45,1,53,53,53
-West Central Queens,0,92,92,72,72,0,92,92,92
-West Queens,0,135,135,86,86,0,135,135,135
+Neighbourhood,Distance (m),Name,Reviews,Rating,Price,Latitude,Longitude,Borough,Zipcode
+Allerton,0,35,28,28,0,35,35,35,35
+Astoria Heights,0,18,8,8,0,18,18,18,18
+Bath Beach,0,25,20,20,0,25,25,25,25
+Bay Terrace,0,31,16,16,0,31,31,31,31
+Baychester,0,25,11,11,0,25,25,25,25
+Bayside,0,22,12,12,0,22,22,22,22
+Bayswater,0,32,24,24,0,32,32,32,32
+Bedford Stuyvesant,0,13,9,9,0,13,13,13,13
+Bellaire,0,23,11,11,0,23,23,23,23
+Bellerose,0,12,8,8,0,12,12,12,12
+Belmont,0,22,19,19,0,22,22,22,22
+Boerum Hill,0,9,8,8,0,9,9,9,9
+Borough Park,0,29,20,20,0,29,29,29,29
+Briarwood,0,11,9,9,0,11,11,11,11
+Bronxdale,0,30,22,22,0,30,30,30,30
+Brookville,0,28,19,19,0,28,28,28,28
+Brownsville,0,27,19,19,0,27,27,27,27
+Bushwick,0,17,13,13,0,17,17,17,17
+Bushwick and Williamsburg,0,9,5,5,0,9,9,9,0
+Cambria Heights,0,17,8,8,0,17,17,17,17
+Canarsie and Flatlands,0,11,5,5,0,11,11,11,0
+Carnegie Hill,0,12,11,11,0,12,12,12,12
+Castle Hill,0,33,22,22,0,33,33,33,33
+Central Harlem,0,14,12,12,0,14,14,14,14
+Chelsea and Clinton,0,24,14,14,0,24,24,24,0
+City Island,0,5,3,3,0,5,5,5,5
+City Line,0,15,9,9,0,15,15,15,15
+Civic Center,0,8,5,5,0,8,8,8,8
+Claremont Village,0,15,10,10,0,15,15,15,15
+Clinton,0,14,6,6,0,14,14,14,14
+Clinton Hill,0,16,13,13,0,16,16,16,16
+College Point,0,20,10,10,0,20,20,20,20
+Concord,0,45,25,25,0,45,45,45,45
+Concourse Village,0,26,21,21,0,26,26,26,26
+Cypress Hills,0,46,32,32,0,46,46,46,46
+Ditmas Park,0,25,16,16,0,25,25,25,25
+Douglaston,0,16,7,7,0,16,16,16,16
+Dumbo,0,47,39,39,1,47,47,47,47
+East Harlem,0,19,16,16,0,19,19,19,19
+East Tremont,0,21,20,20,0,21,21,21,21
+East Williamsburg,0,27,16,16,0,27,27,27,27
+Edenwald,0,33,24,24,0,33,33,33,33
+Edgewater Park,0,30,18,18,0,30,30,30,30
+Elm Park,0,15,9,9,0,15,15,15,15
+Erasmus,0,30,22,22,0,30,30,30,30
+Financial District,0,7,5,5,0,7,7,7,7
+Flatbush,0,15,10,10,0,15,15,15,15
+Flatiron,0,28,23,23,0,28,28,28,28
+Floral Park,0,10,4,4,0,10,10,10,10
+Flushing,0,26,15,15,0,26,26,26,26
+Forest Hills Gardens,0,29,26,26,0,29,29,29,29
+Fort Greene,0,16,11,11,0,16,16,16,16
+Fort Hamilton,0,33,26,26,0,33,33,33,33
+Fox Hills,0,41,19,19,0,41,41,41,41
+Gerritsen Beach,0,58,42,42,0,58,58,58,58
+Glendale,0,28,21,21,0,28,28,28,28
+Gramercy,0,15,14,14,0,15,15,15,15
+Gravesend,0,30,18,18,0,30,30,30,30
+Greenpoint,0,19,11,11,0,19,19,19,19
+Greenwich Village,0,13,11,11,0,13,13,13,13
+Hamilton Heights,0,2,2,2,0,2,2,2,2
+Hammels,0,11,3,3,0,11,11,11,11
+HighBridge and Morrisania,0,9,7,7,0,9,9,9,0
+Highland Park,0,37,22,22,0,37,37,37,37
+Hillcrest,0,18,9,9,0,18,18,18,18
+Hollis,0,14,9,9,0,14,14,14,14
+Holliswood,0,16,7,7,0,16,16,16,16
+Howard Beach,0,17,12,12,0,17,17,17,17
+Hudson Yards,0,28,15,15,0,28,28,28,28
+Hunts Point,0,14,7,7,0,14,14,14,14
+Inwood,0,18,14,14,0,18,18,18,18
+Inwood and Washington Heights,0,21,16,16,0,21,21,21,0
+Jackson Heights,0,17,14,14,0,17,17,17,17
+Jamaica,0,20,11,11,0,20,20,20,0
+Jamaica Hills,0,40,28,28,0,40,40,40,40
+Kew Gardens,0,10,5,5,0,10,10,10,10
+Kew Gardens Hills,0,30,19,19,0,30,30,30,30
+Kingsbridge Heights,0,26,19,19,0,26,26,26,26
+Laurelton,0,22,11,11,0,22,22,22,22
+Lefrak City,0,17,15,15,0,17,17,17,17
+Lenox Hill,0,7,7,7,0,7,7,7,7
+Lighthouse Hill,0,54,25,25,0,54,54,54,54
+Lincoln Square,0,15,13,13,0,15,15,15,15
+Lindenwood,0,13,8,8,0,13,13,13,13
+Little Neck,0,1,1,1,0,1,1,1,1
+Long Island City and Astoria,0,16,12,12,0,16,16,16,0
+Lower East Side,0,21,18,18,0,21,21,21,21
+Lower Manhattan,0,21,13,13,0,21,21,21,0
+Madison,0,33,21,21,0,33,33,33,33
+Malba,0,38,23,23,0,38,38,38,38
+Manhattan Valley,0,22,17,17,0,22,22,22,22
+Manhattanville,0,10,8,8,0,10,10,10,10
+Maspeth,0,19,11,11,0,19,19,19,19
+Melrose,0,9,8,8,0,9,9,9,9
+Middle Village,0,20,13,13,0,20,20,20,20
+Midtown South,0,17,11,11,0,17,17,17,17
+Mill Basin,0,54,33,33,0,54,54,54,54
+Morningside Heights,0,15,10,10,0,15,15,15,15
+Mount Eden,0,16,14,14,0,16,16,16,16
+Mount Hope,0,26,20,20,0,26,26,26,26
+Murray Hill,0,20,15,15,0,20,20,20,20
+Noho,0,7,3,3,0,7,7,7,7
+North Corona,0,39,24,24,0,39,39,39,39
+North Queens,0,1,0,0,0,1,1,1,0
+North Riverdale,0,28,18,18,0,28,28,28,28
+North Side,0,22,18,18,0,22,22,22,22
+Northeast Bronx,0,5,4,4,0,5,5,5,0
+Northeast Queens,0,5,3,3,0,5,5,5,0
+Ocean Parkway,0,28,15,15,0,28,28,28,28
+Paerdegat Basin,0,40,26,26,0,40,40,40,40
+Park Slope,0,40,29,29,0,40,40,40,40
+Pelham Bay,0,46,28,28,0,46,46,46,46
+Pomonok,0,31,21,21,0,31,31,31,31
+Port Morris,0,28,22,22,0,28,28,28,28
+Port Richmond,0,21,15,15,0,21,21,21,21
+Prince's Bay,0,39,20,20,0,39,39,39,39
+Prospect Lefferts Gardens,0,11,10,10,0,11,11,11,11
+Queens Village,0,11,6,6,0,11,11,11,11
+Queensboro Hill,0,24,17,17,0,24,24,24,24
+Queensbridge,0,48,34,34,0,48,48,48,48
+Randall Manor,0,55,31,31,0,55,55,55,55
+Red Hook,0,24,18,18,0,24,24,24,24
+Richmond Hill,0,20,12,12,0,20,20,20,20
+Richmond Valley,0,25,15,15,0,25,25,25,25
+Rockaway Park,0,30,13,13,0,30,30,30,30
+Roosevelt Island,0,14,12,12,0,14,14,14,14
+Roxbury,0,2,0,0,0,2,2,2,2
+Rugby,0,49,40,40,0,49,49,49,49
+Sea Gate,0,34,15,15,0,34,34,34,34
+Somerville,0,9,2,2,0,9,9,9,9
+South Ozone Park,0,15,9,9,0,15,15,15,15
+South Side,0,7,6,6,0,7,7,7,7
+Southeast Queens,0,11,5,5,0,11,11,11,0
+Southwest Brooklyn,0,13,10,10,0,13,13,13,0
+Southwest Queens,0,1,1,1,0,1,1,1,0
+Springfield Gardens,0,22,13,13,0,22,22,22,22
+Spuyten Duyvil,0,33,24,24,0,33,33,33,33
+St. Albans,0,25,14,14,0,25,25,25,25
+Stuyvesant Town,0,14,11,11,0,14,14,14,14
+Sunnyside Gardens,0,9,5,5,0,9,9,9,9
+Sunset Park,0,20,12,12,1,20,20,20,20
+Sutton Place,0,12,10,10,0,12,12,12,12
+Tottenville,0,6,3,3,0,6,6,6,6
+Tudor City,0,4,3,3,0,4,4,4,4
+Turtle Bay,0,14,8,8,0,14,14,14,14
+Unionport,0,16,12,12,0,16,16,16,16
+Upper East Side,0,28,26,26,0,28,28,28,28
+Upper West Side,0,16,15,15,1,16,16,16,16
+Van Nest,0,22,17,17,0,22,22,22,22
+Washington Heights,0,4,2,2,0,4,4,4,4
+Weeksville,0,27,19,19,0,27,27,27,27
+West Central Queens,0,15,12,12,0,15,15,15,0
+West Queens,0,43,22,22,0,43,43,43,0
+West Village,0,10,9,9,0,10,10,10,10
+Westerleigh,0,20,11,11,0,20,20,20,20
+Willowbrook,0,94,43,43,0,94,94,94,94
+Wingate,0,24,19,19,0,24,24,24,24
+Woodhaven,0,11,6,6,0,11,11,11,11
+Woodlawn,0,38,30,30,0,38,38,38,38
