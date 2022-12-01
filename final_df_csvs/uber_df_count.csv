@@ -1,88 +1,88 @@
-Neighbourhood,Borough,Month,Day,Ride Count,ll
-Astoria Heights,11,11,11,11,11
-Bedford Stuyvesant,35,35,35,35,35
-Belmont,2,2,2,2,2
-Boerum Hill,153,153,153,153,153
-Borough Park,1,1,1,1,1
-Briarwood,1,1,1,1,1
-Brownsville,4,4,4,4,4
-Bushwick,28,28,28,28,28
-Bushwick and Williamsburg,49,49,49,49,49
-Carnegie Hill,326,326,326,326,326
-Central Harlem,33,33,33,33,33
-Chelsea and Clinton,1828,1828,1828,1828,1828
-Civic Center,978,978,978,978,978
-Clinton,558,558,558,558,558
-Clinton Hill,151,151,151,151,151
-Ditmas Park,11,11,11,11,11
-Dumbo,355,355,355,355,355
-East Harlem,97,97,97,97,97
-East Williamsburg,88,88,88,88,88
-Erasmus,7,7,7,7,7
-Financial District,196,196,196,196,196
-Flatiron,1068,1068,1068,1068,1068
-Flushing,4,4,4,4,4
-Forest Hills Gardens,1,1,1,1,1
-Fort Greene,120,120,120,120,120
-Fort Hamilton,7,7,7,7,7
-Fox Hills,4,4,4,4,4
-Gerritsen Beach,1,1,1,1,1
-Glendale,3,3,3,3,3
-Gramercy,557,557,557,557,557
-Greenpoint,156,156,156,156,156
-Greenwich Village,946,946,946,946,946
-Hamilton Heights,4,4,4,4,4
-HighBridge and Morrisania,15,15,15,15,15
-Highland Park,1,1,1,1,1
-Hillcrest,1,1,1,1,1
-Hudson Yards,970,970,970,970,970
-Hunts Point,1,1,1,1,1
-Inwood,3,3,3,3,3
-Inwood and Washington Heights,6,6,6,6,6
-Jackson Heights,1,1,1,1,1
-Jamaica,5,5,5,5,5
-Lefrak City,1,1,1,1,1
-Lenox Hill,200,200,200,200,200
-Lincoln Square,454,454,454,454,454
-Long Island City and Astoria,18,18,18,18,18
-Lower East Side,487,487,487,487,487
-Lower Manhattan,612,612,612,612,612
-Manhattan Valley,187,187,187,187,187
-Manhattanville,8,8,8,8,8
-Midtown,6,6,6,6,6
-Midtown South,721,721,721,721,721
-Morningside Heights,57,57,57,57,57
-Mount Eden,6,6,6,6,6
-Noho,883,883,883,883,883
-North Corona,27,27,27,27,27
-North Riverdale,6,6,6,6,6
-North Side,338,338,338,338,338
-Ocean Parkway,3,3,3,3,3
-Park Slope,153,153,153,153,153
-Prospect Lefferts Gardens,14,14,14,14,14
-Queensboro Hill,2,2,2,2,2
-Queensbridge,91,91,91,91,91
-Randall Manor,11,11,11,11,11
-Red Hook,117,117,117,117,117
-Roosevelt Island,12,12,12,12,12
-Rugby,2,2,2,2,2
-Sea Gate,6,6,6,6,6
-South Ozone Park,1,1,1,1,1
-South Side,2,2,2,2,2
-Southwest Brooklyn,1,1,1,1,1
-Spuyten Duyvil,3,3,3,3,3
-Stuyvesant Town,409,409,409,409,409
-Sunnyside Gardens,4,4,4,4,4
-Sunset Park,12,12,12,12,12
-Sutton Place,333,333,333,333,333
-Tudor City,607,607,607,607,607
-Turtle Bay,965,965,965,965,965
-Upper East Side,673,673,673,673,673
-Upper West Side,346,346,346,346,346
-Van Nest,1,1,1,1,1
-Washington Heights,18,18,18,18,18
-Weeksville,4,4,4,4,4
-West Central Queens,2,2,2,2,2
-West Queens,20,20,20,20,20
-West Village,965,965,965,965,965
-Wingate,7,7,7,7,7
+Neighbourhood,Ride Count
+Astoria Heights,11
+Bedford Stuyvesant,35
+Belmont,2
+Boerum Hill,153
+Borough Park,1
+Briarwood,1
+Brownsville,4
+Bushwick,28
+Bushwick and Williamsburg,49
+Carnegie Hill,326
+Central Harlem,33
+Chelsea and Clinton,1828
+Civic Center,978
+Clinton,558
+Clinton Hill,151
+Ditmas Park,11
+Dumbo,355
+East Harlem,97
+East Williamsburg,88
+Erasmus,7
+Financial District,196
+Flatiron,1068
+Flushing,4
+Forest Hills Gardens,1
+Fort Greene,120
+Fort Hamilton,7
+Fox Hills,4
+Gerritsen Beach,1
+Glendale,3
+Gramercy,557
+Greenpoint,156
+Greenwich Village,946
+Hamilton Heights,4
+HighBridge and Morrisania,15
+Highland Park,1
+Hillcrest,1
+Hudson Yards,970
+Hunts Point,1
+Inwood,3
+Inwood and Washington Heights,6
+Jackson Heights,1
+Jamaica,5
+Lefrak City,1
+Lenox Hill,200
+Lincoln Square,454
+Long Island City and Astoria,18
+Lower East Side,487
+Lower Manhattan,612
+Manhattan Valley,187
+Manhattanville,8
+Midtown,6
+Midtown South,721
+Morningside Heights,57
+Mount Eden,6
+Noho,883
+North Corona,27
+North Riverdale,6
+North Side,338
+Ocean Parkway,3
+Park Slope,153
+Prospect Lefferts Gardens,14
+Queensboro Hill,2
+Queensbridge,91
+Randall Manor,11
+Red Hook,117
+Roosevelt Island,12
+Rugby,2
+Sea Gate,6
+South Ozone Park,1
+South Side,2
+Southwest Brooklyn,1
+Spuyten Duyvil,3
+Stuyvesant Town,409
+Sunnyside Gardens,4
+Sunset Park,12
+Sutton Place,333
+Tudor City,607
+Turtle Bay,965
+Upper East Side,673
+Upper West Side,346
+Van Nest,1
+Washington Heights,18
+Weeksville,4
+West Central Queens,2
+West Queens,20
+West Village,965
+Wingate,7

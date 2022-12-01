@@ -1,88 +1,88 @@
-Neighbourhood,Month,Day,Ride Count
-Astoria Heights,6.545454545454546,19.545454545454547,1.0
-Bedford Stuyvesant,7.114285714285714,15.857142857142858,1.0
-Belmont,8.0,14.0,1.0
-Boerum Hill,6.993464052287582,16.313725490196077,1.0
-Borough Park,6.0,13.0,1.0
-Briarwood,9.0,2.0,1.0
-Brownsville,6.5,11.25,1.0
-Bushwick,7.714285714285714,14.071428571428571,1.0
-Bushwick and Williamsburg,7.163265306122449,15.428571428571429,1.0
-Carnegie Hill,6.800613496932515,16.506134969325153,1.0
-Central Harlem,7.181818181818182,18.424242424242426,1.0
-Chelsea and Clinton,6.693654266958425,16.24288840262582,1.0
-Civic Center,6.789366053169734,16.19529652351738,1.0
-Clinton,6.811827956989247,15.661290322580646,1.0
-Clinton Hill,6.960264900662252,16.56953642384106,1.0
-Ditmas Park,7.636363636363637,16.181818181818183,1.0
-Dumbo,7.011267605633803,15.825352112676056,1.0
-East Harlem,7.020618556701031,16.917525773195877,1.0
-East Williamsburg,7.465909090909091,15.636363636363637,1.0
-Erasmus,6.571428571428571,19.285714285714285,1.0
-Financial District,6.760204081632653,15.908163265306122,1.0
-Flatiron,6.749063670411985,15.78183520599251,1.0
-Flushing,8.25,18.5,1.0
-Forest Hills Gardens,8.0,9.0,1.0
-Fort Greene,6.941666666666666,17.266666666666666,1.0
-Fort Hamilton,7.857142857142857,19.428571428571427,1.0
-Fox Hills,8.0,20.5,1.0
-Gerritsen Beach,7.0,23.0,1.0
-Glendale,7.0,27.666666666666668,1.0
-Gramercy,6.8168761220825855,15.750448833034111,1.0
-Greenpoint,6.923076923076923,15.878205128205128,1.0
-Greenwich Village,6.707188160676533,15.813953488372093,1.0
-Hamilton Heights,7.25,15.5,1.0
-HighBridge and Morrisania,7.133333333333334,12.866666666666667,1.0
-Highland Park,7.0,18.0,1.0
-Hillcrest,4.0,26.0,1.0
-Hudson Yards,6.845360824742268,15.81340206185567,1.0
-Hunts Point,5.0,18.0,1.0
-Inwood,7.0,22.0,1.0
-Inwood and Washington Heights,7.0,15.833333333333334,1.0
-Jackson Heights,9.0,21.0,1.0
-Jamaica,7.4,19.0,1.0
-Lefrak City,8.0,31.0,1.0
-Lenox Hill,6.99,15.83,1.0
-Lincoln Square,6.795154185022026,16.345814977973568,1.0
-Long Island City and Astoria,6.555555555555555,17.72222222222222,1.0
-Lower East Side,6.887063655030801,15.747433264887064,1.0
-Lower Manhattan,6.816993464052287,16.204248366013072,1.0
-Manhattan Valley,7.0,15.390374331550802,1.0
-Manhattanville,7.5,14.875,1.0
-Midtown,6.0,16.666666666666668,1.0
-Midtown South,6.685159500693481,16.084604715672675,1.0
-Morningside Heights,7.035087719298246,17.210526315789473,1.0
-Mount Eden,7.5,17.0,1.0
-Noho,6.7293318233295585,15.79501698754247,1.0
-North Corona,7.407407407407407,18.0,1.0
-North Riverdale,7.0,6.333333333333333,1.0
-North Side,7.112426035502959,16.535502958579883,1.0
-Ocean Parkway,7.0,16.0,1.0
-Park Slope,7.117647058823529,16.973856209150327,1.0
-Prospect Lefferts Gardens,6.142857142857143,16.0,1.0
-Queensboro Hill,5.5,5.5,1.0
-Queensbridge,7.087912087912088,16.274725274725274,1.0
-Randall Manor,6.363636363636363,12.545454545454545,1.0
-Red Hook,6.9914529914529915,17.333333333333332,1.0
-Roosevelt Island,6.833333333333333,18.25,1.0
-Rugby,6.5,16.0,1.0
-Sea Gate,7.166666666666667,18.0,1.0
-South Ozone Park,8.0,11.0,1.0
-South Side,6.5,9.5,1.0
-Southwest Brooklyn,8.0,28.0,1.0
-Spuyten Duyvil,7.666666666666667,16.666666666666668,1.0
-Stuyvesant Town,7.039119804400978,15.748166259168704,1.0
-Sunnyside Gardens,7.5,21.5,1.0
-Sunset Park,7.833333333333333,15.666666666666666,1.0
-Sutton Place,6.564564564564565,15.594594594594595,1.0
-Tudor City,6.761120263591433,16.079077429983524,1.0
-Turtle Bay,6.62279792746114,15.958549222797927,1.0
-Upper East Side,6.684992570579495,16.340267459138186,1.0
-Upper West Side,6.872832369942197,15.901734104046243,1.0
-Van Nest,7.0,27.0,1.0
-Washington Heights,7.444444444444445,16.555555555555557,1.0
-Weeksville,6.75,22.0,1.0
-West Central Queens,6.0,12.0,1.0
-West Queens,7.15,18.55,1.0
-West Village,6.722279792746114,16.13782383419689,1.0
-Wingate,7.857142857142857,14.857142857142858,1.0
+Neighbourhood,Ride Count
+Astoria Heights,1
+Bedford Stuyvesant,1
+Belmont,1
+Boerum Hill,1
+Borough Park,1
+Briarwood,1
+Brownsville,1
+Bushwick,1
+Bushwick and Williamsburg,1
+Carnegie Hill,1
+Central Harlem,1
+Chelsea and Clinton,1
+Civic Center,1
+Clinton,1
+Clinton Hill,1
+Ditmas Park,1
+Dumbo,1
+East Harlem,1
+East Williamsburg,1
+Erasmus,1
+Financial District,1
+Flatiron,1
+Flushing,1
+Forest Hills Gardens,1
+Fort Greene,1
+Fort Hamilton,1
+Fox Hills,1
+Gerritsen Beach,1
+Glendale,1
+Gramercy,1
+Greenpoint,1
+Greenwich Village,1
+Hamilton Heights,1
+HighBridge and Morrisania,1
+Highland Park,1
+Hillcrest,1
+Hudson Yards,1
+Hunts Point,1
+Inwood,1
+Inwood and Washington Heights,1
+Jackson Heights,1
+Jamaica,1
+Lefrak City,1
+Lenox Hill,1
+Lincoln Square,1
+Long Island City and Astoria,1
+Lower East Side,1
+Lower Manhattan,1
+Manhattan Valley,1
+Manhattanville,1
+Midtown,1
+Midtown South,1
+Morningside Heights,1
+Mount Eden,1
+Noho,1
+North Corona,1
+North Riverdale,1
+North Side,1
+Ocean Parkway,1
+Park Slope,1
+Prospect Lefferts Gardens,1
+Queensboro Hill,1
+Queensbridge,1
+Randall Manor,1
+Red Hook,1
+Roosevelt Island,1
+Rugby,1
+Sea Gate,1
+South Ozone Park,1
+South Side,1
+Southwest Brooklyn,1
+Spuyten Duyvil,1
+Stuyvesant Town,1
+Sunnyside Gardens,1
+Sunset Park,1
+Sutton Place,1
+Tudor City,1
+Turtle Bay,1
+Upper East Side,1
+Upper West Side,1
+Van Nest,1
+Washington Heights,1
+Weeksville,1
+West Central Queens,1
+West Queens,1
+West Village,1
+Wingate,1

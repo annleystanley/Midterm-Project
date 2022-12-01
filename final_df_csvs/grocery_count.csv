@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Neighbourhood,Distance (m),Name,Reviews,Rating,Price,Latitude,Longitude,Borough,Zipcode
 Allerton,0,18,18,18,1,18,18,18,18
 Astoria Heights,0,5,5,5,2,5,5,5,5
@@ -155,3 +156,48 @@ Wingate,0,18,16,16,1,18,18,18,18
 Woodhaven,0,9,9,9,2,9,9,9,9
 Woodlawn,0,12,12,12,1,12,12,12,12
 Woodside,0,3,3,3,0,3,3,3,3
+=======
+Neighbourhood,Unnamed: 0,Distance (m),Name,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough
+Borough Park,55,0,55,55,51,51,3,55,55,55
+Bronx Park and Fordham,42,0,42,42,41,41,5,42,42,42
+Bushwick and Williamsburg,36,0,36,36,35,35,3,36,36,36
+Canarsie and Flatlands,18,0,18,18,15,15,2,18,18,18
+Central Brooklyn (Bedford Stuyvesant – Crown Heights),74,0,74,74,68,68,6,74,74,74
+Central Harlem,30,0,30,30,29,29,4,30,30,30
+Central Queens,18,0,18,18,18,18,1,18,18,18
+Chelsea and Clinton,43,0,43,43,35,35,8,43,43,43
+Crotona and Tremont,47,0,47,47,44,44,7,47,47,47
+East Harlem,12,0,12,12,12,12,1,12,12,12
+East New York and New Lots,43,0,43,43,42,42,3,43,43,43
+Flatbush,47,0,47,47,44,44,4,47,47,47
+Gramercy Park and Murray Hill,27,0,27,27,25,25,5,27,27,27
+Greenpoint,25,0,25,25,24,24,3,25,25,25
+Greenwich Village and Soho,25,0,25,25,24,24,7,25,25,25
+HighBridge and Morrisania,42,0,42,42,39,39,4,42,42,42
+Hunts Point and Mott Haven,40,0,40,40,36,36,5,40,40,40
+Inwood and Washington Heights,40,0,40,40,37,37,3,40,40,40
+Jamaica,51,0,51,51,49,49,5,51,51,51
+Kingsbridge and Riverdale,14,0,14,14,14,14,4,14,14,14
+Long Island City and Astoria,50,0,50,50,48,48,6,50,50,50
+Lower Manhattan,9,0,9,9,7,7,4,9,9,9
+Mid-Island (Willowbrook),8,0,8,8,8,8,2,8,8,8
+North Queens,41,0,41,41,37,37,6,41,41,41
+Northeast Bronx,25,0,25,25,25,25,5,25,25,25
+Northeast Queens,4,0,4,4,4,4,0,4,4,4
+Northwest Brooklyn ,52,0,52,52,51,51,13,52,52,52
+Pelham and Throgs Neck,46,0,46,46,45,45,5,46,46,46
+Port Richmond,14,0,14,14,12,12,2,14,14,14
+Rockaways,20,0,20,20,19,19,4,20,20,20
+South Beach and Tottenville,6,0,6,6,6,6,1,6,6,6
+Southeast Queens,20,0,20,20,19,19,1,20,20,20
+Southern Brooklyn,55,0,55,55,52,52,6,55,55,55
+Southwest Brooklyn,40,0,40,40,40,40,2,40,40,40
+Southwest Queens,34,0,34,34,33,33,6,34,34,34
+Stapleton and St. George,14,0,14,14,14,14,4,14,14,14
+Sunset Park,19,0,19,19,16,16,1,19,19,19
+Union Square and Lower East Side,33,0,33,33,30,30,8,33,33,33
+Upper East Side,26,0,26,26,24,24,6,26,26,26
+Upper West Side,27,0,27,27,25,25,7,27,27,27
+West Central Queens,33,0,33,33,31,31,4,33,33,33
+West Queens,69,0,69,69,64,64,5,69,69,69
+>>>>>>> 2754662517964e6af87550162a775a463e39e1dc
