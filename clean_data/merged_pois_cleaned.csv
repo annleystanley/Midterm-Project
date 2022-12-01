@@ -1,6 +1,5 @@
 ,Distance (m),Name,Neighbourhood,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough,Category
 0,127.0,Lollipops Gelato,Northeast Bronx,10466.0,,4.215686274509805,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
-1,797.0,Ripe Kitchen and Bar,Wakefield,10550.0,,4.058823529411766,2.0,40.89470517661,-73.84720052054902,Mount Vernon,restaurant
 2,821.0,Ali's Roti Shop,Northeast Bronx,10466.0,545.0,4.0,1.0,40.894,-73.85684,Bronx,restaurant
 4,983.0,Jimbo's Hamburger Palace,Northeast Bronx,10466.0,24.0,3.0,1.0,40.891804,-73.858604,Bronx,restaurant
 6,454.0,Cooler Runnings Jamaican Restaurant,Northeast Bronx,10466.0,50.0,3.0,1.0,40.898157,-73.85029,Bronx,restaurant
@@ -19,7 +18,6 @@
 25,808.0,Dragon Star Chinese Food,Northeast Bronx,10466.0,,,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
 26,810.0,Wakefield Deli,Northeast Bronx,10470.0,,,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
 27,810.0,Jerk House,Northeast Bronx,10466.0,62.0,3.5,2.0,40.89464,-73.85648,Bronx,restaurant
-29,819.0,Inn At the Border,Wakefield,10550.0,,,,40.89470517661,-73.84720052054902,Mount Vernon,restaurant
 30,845.0,Original Joe's Pizza,Northeast Bronx,10466.0,,,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
 31,866.0,Kennedy Fried Chicken & Pizza,Northeast Bronx,10466.0,,,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
 32,866.0,New Double Dragon Chinese,Northeast Bronx,10466.0,,,1.0,40.89470517661,-73.84720052054902,Bronx,restaurant
@@ -52,20 +50,13 @@
 102,241.0,Fish N' Ting,Northeast Bronx,10466.0,327.0,4.0,2.0,40.885723,-73.829075,Bronx,restaurant
 103,559.0,Taco Bell,Northeast Bronx,10475.0,1723.0,2.0,1.0,40.8827165260369,-73.8248359268336,Bronx,restaurant
 104,313.0,Mario's Pizzeria,Northeast Bronx,10466.0,255.0,4.0,1.0,40.88864,-73.83104,Bronx,restaurant
-105,858.0,Panera Bread,Parkside,10803.0,70.0,3.5,2.0,40.891502,-73.819003,Pelham Manor,restaurant
 106,363.0,Dyre Fish Market,Northeast Bronx,10466.0,52.0,4.0,2.0,40.88888,-73.83094,Bronx,restaurant
 107,672.0,Smashburger,Northeast Bronx,10466.0,1537.0,3.6666666666666674,2.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
-108,769.0,Dave & Buster's,Parkside,10803.0,267.0,2.0,2.0,40.89202080339504,-73.82082338602827,Pelham Manor,restaurant
 109,743.0,IHOP,Northeast Bronx,10475.0,2564.0,3.5,2.0,40.88995,-73.81942,Bronx,restaurant
-110,904.0,Yumi Asian Bistro,Parkside,10803.0,,3.509803921568628,2.0,40.887555677350775,-73.82780644716412,Pelham,restaurant
-111,1063.0,Chipotle Mexican Grill,Parkside,10803.0,,3.509803921568628,1.0,40.887555677350775,-73.82780644716412,Pelham,restaurant
 112,294.0,Golden Krust Caribbean Bakery And Grill,Northeast Bronx,10466.0,,2.725490196078432,2.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
-114,963.0,Five Guys Burgers & Fries,Parkside,10803.0,,3.1176470588235303,1.0,40.887555677350775,-73.82780644716412,Pelham Manor,restaurant
 115,698.0,Wendy’s,Northeast Bronx,10475.0,,2.960784313725491,1.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
-116,838.0,Wingstop,Coop City,10803.0,82.0,2.0,1.0,40.890503,-73.81838422209015,Pelham,restaurant
 117,555.0,Best Chinese Restaurant,Northeast Bronx,10475.0,,2.725490196078432,1.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
 118,301.0,Dyre Deli Grocery,Northeast Bronx,10466.0,,2.490196078431373,1.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
-119,824.0,Columbus Diner,Parkside,10550.0,69.0,3.0,2.0,40.894518,-73.824315,Mount Vernon,restaurant
 120,553.0,Mingles,Northeast Bronx,10475.0,31.0,2.5,2.0,40.8846189,-73.8318809,Bronx,restaurant
 121,332.0,Royal Caribbean Jamaican Bakery,Northeast Bronx,10466.0,12.0,3.5,2.0,40.8880965331306,-73.8313494797047,Bronx,restaurant
 122,372.0,Faity's Kitchen,Northeast Bronx,10466.0,,2.0196078431372553,2.0,40.887555677350775,-73.82780644716412,Bronx,restaurant
@@ -143,24 +134,12 @@
 361,969.0,Bello Deli Food,Inwood and Washington Heights,10034.0,,,1.0,40.87655077879964,-73.91065965862981,Manhattan,restaurant
 362,21.0,Rambling House,Northeast Bronx,10470.0,710.0,3.5,2.0,40.8983612,-73.8671608,Bronx,restaurant
 363,73.0,Curry Spot,Northeast Bronx,10470.0,132.0,3.5,2.0,40.89776,-73.86706,Bronx,restaurant
-364,745.0,Rory Dolan's,Lincoln,10704.0,,4.294117647058824,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-365,549.0,Avitable Bros,Lincoln,10704.0,,3.9019607843137254,1.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-366,552.0,Angelo Pizzeria,Lincoln,10704.0,49.0,3.5,2.0,40.903021795278526,-73.86501504927814,Yonkers,restaurant
-367,579.0,Irish Coffee Shop,Lincoln,10704.0,59.0,3.5,2.0,40.90374,-73.8665,Yonkers,restaurant
-368,578.0,J P Clarkes Saloon,Lincoln,10704.0,,3.274509803921569,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-369,554.0,Moriartys Bar And Restaurant,Lincoln,10704.0,,2.8039215686274512,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
 370,45.0,Just One Tavern,Northeast Bronx,10470.0,,,,40.89827261213805,-73.86731496814176,Bronx,restaurant
 371,136.0,Woodlawn Deli,Northeast Bronx,10470.0,,,1.0,40.89827261213805,-73.86731496814176,Bronx,restaurant
 372,165.0,Bella Napoli,Northeast Bronx,10470.0,,,1.0,40.89827261213805,-73.86731496814176,Bronx,restaurant
 373,185.0,Katonah Irish Mini Mart,Northeast Bronx,10470.0,,,1.0,40.89827261213805,-73.86731496814176,Bronx,restaurant
-374,1111.0,Danny Macs,Lincoln,10704.0,,2.411764705882353,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
 375,453.0,Bella Napoli 2,Northeast Bronx,10470.0,18.0,3.5,1.0,40.89678,-73.86734,Bronx,restaurant
-376,531.0,Hearty & Healthy,Lincoln,10704.0,,,1.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-377,550.0,Dee's Deli & Cafe,Lincoln,10704.0,,,1.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-378,563.0,Oshima,Lincoln,10704.0,,,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
-379,582.0,Fagan's Ale House,Lincoln,10704.0,,,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
 380,712.0,Tito Boss - Halal Cart,Northeast Bronx,10466.0,,,1.0,40.89827261213805,-73.86731496814176,Bronx,restaurant
-381,754.0,The Rail House Restaurant,Woodlawn,10704.0,,,2.0,40.89827261213805,-73.86731496814176,Yonkers,restaurant
 382,783.0,Kelly's Pub,Northeast Bronx,10470.0,,,1.0,40.89827261213805,-73.86731496814176,Bronx,restaurant
 383,907.0,Loong Xin Asian cuisine,Northeast Bronx,10466.0,20.0,3.5,1.0,40.8935462028793,-73.8584990054369,Bronx,restaurant
 385,974.0,Tony's Pizza,Northeast Bronx,10466.0,172.0,3.5,1.0,40.893291,-73.857841,Bronx,restaurant
@@ -271,7 +250,6 @@
 596,368.0,Rays Cafe & Restaurant,Pelham and Throgs Neck,10464.0,,,2.0,40.84724670491813,-73.78648845267413,Bronx,restaurant
 597,761.0,Portofino Restaurant,Pelham and Throgs Neck,10464.0,470.0,3.5,3.0,40.853397,-73.79028,Bronx,restaurant
 598,629.0,City Island Delicatessan,Pelham and Throgs Neck,10464.0,,,1.0,40.84724670491813,-73.78648845267413,Bronx,restaurant
-599,91.0,Cuzzins Restaurant And Fine Dining,City Island,11120.0,,,,40.84724670491813,-73.78648845267413,Long Island City,restaurant
 600,116.0,Anthony's Italian Restaurant,Pelham and Throgs Neck,10464.0,,,,40.84724670491813,-73.78648845267413,Bronx,restaurant
 601,174.0,Shar-Jo Rest,Pelham and Throgs Neck,10464.0,,,,40.84724670491813,-73.78648845267413,Bronx,restaurant
 602,193.0,A Taste Of Italy,Pelham and Throgs Neck,10464.0,,,,40.84724670491813,-73.78648845267413,Bronx,restaurant
@@ -700,9 +678,7 @@
 1455,317.0,Golden Phoenix Chinese Restaurant,Kingsbridge and Riverdale,10471.0,,1.941176470588236,1.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
 1456,244.0,Pizza Block,Kingsbridge and Riverdale,10471.0,,,1.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
 1457,251.0,Gruenebaum Bakeries,Kingsbridge and Riverdale,10471.0,,,1.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
-1458,810.0,American Classic,Fildston,10705.0,,2.254901960784314,2.0,40.90854282950666,-73.90453054908927,Yonkers,restaurant
 1459,277.0,The Cafe at Skyview,Kingsbridge and Riverdale,10471.0,,,2.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
-1460,803.0,Broadway Diner,Fildston,10705.0,85.0,3.0,2.0,40.91293,-73.89641,Yonkers,restaurant
 1461,286.0,Skyview Glatt Kosher Restaurant & Deli,Kingsbridge and Riverdale,10471.0,,,1.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
 1462,640.0,St Maria's Deli & Grocery,Kingsbridge and Riverdale,10471.0,,,1.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
 1463,666.0,New Nagoya Sushi,Kingsbridge and Riverdale,10471.0,,,2.0,40.90854282950666,-73.90453054908927,Bronx,restaurant
@@ -3109,15 +3085,11 @@
 5379,888.0,Around the Clock 24 Hour Deli,Southeast Queens,11426.0,,,1.0,40.74944079974332,-73.71548118999145,Queens,restaurant
 5380,997.0,The VIP Club,Southeast Queens,11005.0,,,2.0,40.74944079974332,-73.71548118999145,Queens,restaurant
 5381,365.0,Pizza Classica,Southeast Queens,11004.0,,,,40.74944079974332,-73.71548118999145,Queens,restaurant
-5382,352.0,Fat Ernie's Cheesesteak Co.,Bellaire,11001.0,,3.274509803921569,2.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
-5383,713.0,Vaccaros Pizza,Bellerose,11001.0,,3.588235294117647,1.0,40.72857318176675,-73.72012814826903,Bellerose,restaurant
 5384,430.0,Triple Crown Diner,Southeast Queens,11426.0,,3.03921568627451,2.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5385,459.0,Friend's Gourmet Deli,Southeast Queens,11426.0,97.0,4.0,1.0,40.725096,-73.72281,Queens,restaurant
 5386,460.0,Rollin Greens,Southeast Queens,11426.0,41.0,4.0,2.0,40.7255226,-73.7196826,Queens,restaurant
 5387,390.0,Hi-Class Pizza,Southeast Queens,11426.0,188.0,3.5,1.0,40.725379,-73.721701,Queens,restaurant
 5388,567.0,Subway,Southeast Queens,11426.0,51.0,2.8823529411764715,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
-5394,888.0,Bell Park Deli,Bellerose,11001.0,,2.725490196078432,1.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
-5395,454.0,Arturo's Ristorante Italiano,Bellaire,11001.0,,2.176470588235295,3.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
 5396,305.0,Homemade Taqueria,Southeast Queens,11426.0,37.0,4.0,1.0,40.72621,-73.71869,Queens,restaurant
 5397,312.0,Bellerose Deli,Southeast Queens,11426.0,,,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5398,340.0,Kam's Garden,Southeast Queens,11426.0,51.0,3.9,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
@@ -3125,10 +3097,7 @@
 5400,366.0,Chicky's,Southeast Queens,11426.0,1345.0,4.6,2.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5401,378.0,Curry on Pizza,Southeast Queens,11426.0,,,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5402,402.0,Halal Bros. Of Ny,Southeast Queens,11426.0,,,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
-5403,448.0,Samrat Palace Restaurant and Bar,Bellaire,11001.0,,,2.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
 5404,461.0,Kam's Garden Chinese Restaurant,Southeast Queens,11426.0,,,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
-5405,1037.0,Nancy's Fireside Restaurant,Bellerose,11001.0,,2.254901960784314,2.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
-5406,514.0,Atomic Wings - Floral,Bellaire,11001.0,,,2.0,40.72857318176675,-73.72012814826903,Floral Park,restaurant
 5407,593.0,Michael's Deli,Southeast Queens,11426.0,,,1.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5408,730.0,Fuzzy's,Southeast Queens,11426.0,,,2.0,40.72857318176675,-73.72012814826903,Queens,restaurant
 5409,741.0,King of India,Southeast Queens,11426.0,172.0,3.9,2.0,40.72857318176675,-73.72012814826903,Queens,restaurant
@@ -3256,7 +3225,6 @@
 5600,596.0,Victor's Coffee Shop,Southeast Queens,11428.0,55.0,4.0,1.0,40.71636,-73.74502,Queens,restaurant
 5601,579.0,Mateus’ Restaurant & Bar,Southeast Queens,11428.0,,3.03921568627451,3.0,40.71889309216736,-73.73871484578424,Queens,restaurant
 5602,519.0,Tropical Jerk,Southeast Queens,11429.0,72.0,2.5,2.0,40.7143,-73.73829,Queens,restaurant
-5603,803.0,Italian Affair Pizza,Bellaire,11001.0,,3.1960784313725497,1.0,40.71889309216736,-73.73871484578424,Floral Park,restaurant
 5604,520.0,Golden Krust,Southeast Queens,11429.0,,2.411764705882353,2.0,40.71889309216736,-73.73871484578424,Queens,restaurant
 5605,519.0,Little Caesars Pizza,Southeast Queens,11429.0,351.0,2.411764705882353,1.0,40.71889309216736,-73.73871484578424,Queens,restaurant
 5606,145.0,CD Restaurant and Bar,Southeast Queens,11428.0,89.0,3.5,2.0,40.71815,-73.73724,Queens,restaurant
@@ -4545,9 +4513,6 @@
 8214,635.0,The Phoenix,Stapleton and St. George,10301.0,,,2.0,40.63563000681151,-74.09805062373887,Staten Island,restaurant
 8215,694.0,Lucky Garden,Stapleton and St. George,10301.0,103.0,4.5,2.0,40.64134,-74.09481,Staten Island,restaurant
 8217,694.0,Paolucci's Restaurant,Stapleton and St. George,10301.0,,,,40.63563000681151,-74.09805062373887,Staten Island,restaurant
-8218,815.0,Don Julio,Port Ivory,7206.0,,2.725490196078432,2.0,40.63843283794795,-74.18622331749823,Elizabeth,restaurant
-8219,956.0,Mario's Famous Pizza,Port Ivory,7206.0,54.0,3.5,1.0,40.6469239,-74.1868329,Elizabeth,restaurant
-8220,823.0,Lol Restaurant & Lounge,Liberty Square,7202.0,,,,40.63843283794795,-74.18622331749823,Elizabeth,restaurant
 8221,568.0,Staten Island Five Eleven Deli,Port Richmond,10302.0,,,1.0,40.63014674119383,-74.1418167896889,Staten Island,restaurant
 8222,586.0,Basil Cucina & Catering,Port Richmond,10302.0,114.0,4.0,2.0,40.6247,-74.1448,Staten Island,restaurant
 8226,293.0,A & C Coffee Shop,Canarsie and Flatlands,11236.0,7.0,4.0,1.0,40.64955,-73.91602,Brooklyn,restaurant
