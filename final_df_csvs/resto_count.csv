@@ -1,0 +1,68 @@
+Neighbourhood,Distance (m),Name,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough
+"""Prince's Bay""",4,4,4,1,3,3,4,4,4
+Annadale,12,12,12,4,8,10,12,12,12
+Aspen Knolls,5,5,5,2,3,5,5,5,5
+Astoria,1,1,1,0,1,1,1,1,1
+Battery Park City,6,6,6,2,6,5,6,6,6
+Bayridge,2,2,2,0,2,2,2,2,2
+Beverly Square West,1,1,0,0,1,1,1,1,1
+Borough Park,167,227,227,150,194,205,227,227,227
+Bronx Park and Fordham,196,254,254,170,199,219,254,254,254
+Brooklyn Heights,2,2,2,0,2,2,2,2,2
+Bulls Head,1,1,1,0,1,1,1,1,1
+Bushwick and Williamsburg,83,112,112,75,112,102,112,112,112
+Canarsie and Flatlands,222,283,283,188,221,207,283,283,283
+Central Brooklyn (Bedford Stuyvesant – Crown Heights),242,310,310,214,276,270,310,310,310
+Central Harlem,64,93,93,71,93,91,93,93,93
+Central Queens,130,173,173,120,146,158,173,173,173
+Charleston,4,4,4,2,3,4,4,4,4
+Chelsea and Clinton,183,249,249,178,249,241,249,249,249
+Chrome,1,1,1,1,1,1,1,1,1
+Crotona and Tremont,112,153,153,92,96,111,153,153,153
+East Elmhurst,1,1,1,1,1,1,1,1,1
+East Harlem,41,57,57,41,57,54,57,57,57
+East New York and New Lots,170,214,214,147,156,168,214,214,214
+Flatbush,196,270,270,188,232,210,270,270,270
+Glen Oaks,4,4,4,1,4,4,4,4,4
+Gramercy Park and Murray Hill,134,168,168,104,168,157,168,168,168
+Greenpoint,109,136,136,91,136,133,136,136,136
+Greenridge,7,7,7,3,5,6,7,7,7
+Greenwich Village and Soho,162,194,194,117,194,192,194,194,194
+HighBridge and Morrisania,122,168,168,111,126,133,168,168,168
+Hillcrest,2,2,2,1,2,2,2,2,2
+Hunters Point,1,1,1,0,1,1,1,1,1
+Hunts Point and Mott Haven,170,233,233,153,169,168,233,233,233
+Inwood and Washington Heights,145,183,183,136,179,168,183,183,183
+Jamaica,271,365,365,249,275,271,365,365,365
+Kingsbridge and Riverdale,131,172,172,120,143,152,172,172,172
+Little Neck,4,4,4,1,4,4,4,4,4
+Long Island City and Astoria,275,364,364,254,349,341,364,364,364
+Lower Manhattan,56,79,79,52,79,77,79,79,79
+Mid-Island (Willowbrook),199,251,251,184,209,176,251,251,251
+North Queens,313,403,403,283,362,342,403,403,403
+North Side,8,8,8,2,8,8,8,8,8
+Northeast Bronx,208,272,272,188,214,218,272,272,272
+Northeast Queens,148,181,181,127,162,169,181,181,181
+Northwest Brooklyn ,354,443,443,304,442,418,443,443,443
+Pelham and Throgs Neck,374,486,486,342,404,408,486,486,486
+Pleasant Plains,11,11,11,4,6,10,11,11,11
+Port Richmond,150,195,195,135,150,162,195,195,195
+Princes Bay,3,3,3,1,2,3,3,3,3
+Richmond Valley,14,14,14,6,8,14,14,14,14
+Rockaways,175,240,240,160,190,173,240,240,240
+Rosedale,4,4,4,3,4,4,4,4,4
+Rossville,10,10,10,4,6,7,10,10,10
+South Beach and Tottenville,233,299,299,214,243,231,299,299,299
+South Side,4,4,4,2,4,4,4,4,4
+Southeast Queens,233,312,312,218,237,243,312,312,312
+Southern Brooklyn,326,417,417,289,348,349,417,417,417
+Southwest Brooklyn,153,203,203,141,187,187,203,203,203
+Southwest Queens,227,297,297,201,231,273,297,297,297
+Stapleton and St. George,333,431,431,290,321,310,431,431,431
+Sunset Park,40,53,53,39,52,51,53,53,53
+Union Square and Lower East Side,165,205,205,133,205,198,205,205,205
+Upper East Side,146,192,192,113,192,188,192,192,192
+Upper West Side,119,153,153,102,153,146,153,153,153
+West Central Queens,206,264,264,185,253,248,264,264,264
+West Queens,270,366,366,251,318,341,366,366,366
+Woodrow,8,8,8,3,5,5,8,8,8
