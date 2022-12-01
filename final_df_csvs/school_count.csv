@@ -1,43 +1,43 @@
-Neighbourhood,Distance (m),Name,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough
-Borough Park,0,82,82,51,51,0,82,82,82
-Bronx Park and Fordham,0,83,83,66,66,0,83,83,83
-Bushwick and Williamsburg,0,53,53,34,34,0,53,53,53
-Canarsie and Flatlands,0,105,105,64,64,0,105,105,105
-Central Brooklyn (Bedford Stuyvesant – Crown Heights),0,107,107,79,79,0,107,107,107
-Central Harlem,0,31,31,24,24,0,31,31,31
-Central Queens,0,79,79,49,49,0,79,79,79
-Chelsea and Clinton,0,94,94,58,58,0,94,94,94
-Crotona and Tremont,0,69,69,57,57,0,69,69,69
-East Harlem,0,19,19,16,16,0,19,19,19
-East New York and New Lots,0,83,83,54,54,0,83,83,83
-Flatbush,0,105,105,82,82,0,105,105,105
-Gramercy Park and Murray Hill,0,50,50,36,36,0,50,50,50
-Greenpoint,0,41,41,29,29,0,41,41,41
-Greenwich Village and Soho,0,25,25,17,17,0,25,25,25
-HighBridge and Morrisania,0,51,51,42,42,0,51,51,51
-Hunts Point and Mott Haven,0,66,66,47,47,0,66,66,66
-Inwood and Washington Heights,0,53,53,40,40,0,53,53,53
-Jamaica,0,132,132,84,84,0,132,132,132
-Kingsbridge and Riverdale,0,61,61,42,42,0,61,61,61
-Long Island City and Astoria,0,105,105,71,71,0,105,105,105
-Lower Manhattan,0,28,28,18,18,0,28,28,28
-Mid-Island (Willowbrook),0,94,94,43,43,0,94,94,94
-North Queens,0,138,138,84,84,0,138,138,138
-Northeast Bronx,0,101,101,69,69,0,101,101,101
-Northeast Queens,0,65,65,33,33,0,65,65,65
-Northwest Brooklyn ,0,136,136,105,105,1,136,136,136
-Pelham and Throgs Neck,0,160,160,105,105,0,160,160,160
-Port Richmond,0,56,56,35,35,0,56,56,56
-Rockaways,0,84,84,42,42,0,84,84,84
-South Beach and Tottenville,0,82,82,40,40,0,82,82,82
-Southeast Queens,0,129,129,69,69,0,129,129,129
-Southern Brooklyn,0,155,155,96,96,0,155,155,155
-Southwest Brooklyn,0,71,71,56,56,0,71,71,71
-Southwest Queens,0,102,102,62,62,0,102,102,102
-Stapleton and St. George,0,141,141,75,75,0,141,141,141
-Sunset Park,0,20,20,12,12,1,20,20,20
-Union Square and Lower East Side,0,48,48,40,40,0,48,48,48
-Upper East Side,0,59,59,54,54,0,59,59,59
-Upper West Side,0,53,53,45,45,1,53,53,53
-West Central Queens,0,92,92,72,72,0,92,92,92
-West Queens,0,135,135,86,86,0,135,135,135
+Neighbourhood,Unnamed: 0,Distance (m),Name,Zipcode,Reviews,Rating,Price,Latitude,Longitude,Borough
+Borough Park,82,0,82,82,51,51,0,82,82,82
+Bronx Park and Fordham,83,0,83,83,66,66,0,83,83,83
+Bushwick and Williamsburg,53,0,53,53,34,34,0,53,53,53
+Canarsie and Flatlands,105,0,105,105,64,64,0,105,105,105
+Central Brooklyn (Bedford Stuyvesant – Crown Heights),107,0,107,107,79,79,0,107,107,107
+Central Harlem,31,0,31,31,24,24,0,31,31,31
+Central Queens,79,0,79,79,49,49,0,79,79,79
+Chelsea and Clinton,94,0,94,94,58,58,0,94,94,94
+Crotona and Tremont,69,0,69,69,57,57,0,69,69,69
+East Harlem,19,0,19,19,16,16,0,19,19,19
+East New York and New Lots,83,0,83,83,54,54,0,83,83,83
+Flatbush,105,0,105,105,82,82,0,105,105,105
+Gramercy Park and Murray Hill,50,0,50,50,36,36,0,50,50,50
+Greenpoint,41,0,41,41,29,29,0,41,41,41
+Greenwich Village and Soho,25,0,25,25,17,17,0,25,25,25
+HighBridge and Morrisania,51,0,51,51,42,42,0,51,51,51
+Hunts Point and Mott Haven,66,0,66,66,47,47,0,66,66,66
+Inwood and Washington Heights,53,0,53,53,40,40,0,53,53,53
+Jamaica,132,0,132,132,84,84,0,132,132,132
+Kingsbridge and Riverdale,61,0,61,61,42,42,0,61,61,61
+Long Island City and Astoria,105,0,105,105,71,71,0,105,105,105
+Lower Manhattan,28,0,28,28,18,18,0,28,28,28
+Mid-Island (Willowbrook),94,0,94,94,43,43,0,94,94,94
+North Queens,138,0,138,138,84,84,0,138,138,138
+Northeast Bronx,101,0,101,101,69,69,0,101,101,101
+Northeast Queens,65,0,65,65,33,33,0,65,65,65
+Northwest Brooklyn ,136,0,136,136,105,105,1,136,136,136
+Pelham and Throgs Neck,160,0,160,160,105,105,0,160,160,160
+Port Richmond,56,0,56,56,35,35,0,56,56,56
+Rockaways,84,0,84,84,42,42,0,84,84,84
+South Beach and Tottenville,82,0,82,82,40,40,0,82,82,82
+Southeast Queens,129,0,129,129,69,69,0,129,129,129
+Southern Brooklyn,155,0,155,155,96,96,0,155,155,155
+Southwest Brooklyn,71,0,71,71,56,56,0,71,71,71
+Southwest Queens,102,0,102,102,62,62,0,102,102,102
+Stapleton and St. George,141,0,141,141,75,75,0,141,141,141
+Sunset Park,20,0,20,20,12,12,1,20,20,20
+Union Square and Lower East Side,48,0,48,48,40,40,0,48,48,48
+Upper East Side,59,0,59,59,54,54,0,59,59,59
+Upper West Side,53,0,53,53,45,45,1,53,53,53
+West Central Queens,92,0,92,92,72,72,0,92,92,92
+West Queens,135,0,135,135,86,86,0,135,135,135
