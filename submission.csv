@@ -1,307 +1,307 @@
 ,Neighbourhood,Cluster_ID
-0,Wakefield,1
-1,Co-op City,1
-2,Eastchester,1
-3,Fieldston,1
-4,Riverdale,1
+0,Wakefield,2
+1,Co-op City,2
+2,Eastchester,2
+3,Fieldston,2
+4,Riverdale,2
 5,Kingsbridge,1
-6,Marble Hill,1
-7,Woodlawn,2
-8,Norwood,1
-9,Williamsbridge,1
+6,Marble Hill,0
+7,Woodlawn,1
+8,Norwood,2
+9,Williamsbridge,2
 10,Baychester,2
-11,Pelham Parkway,1
-12,City Island,0
+11,Pelham Parkway,2
+12,City Island,1
 13,Bedford Park,1
 14,University Heights,1
-15,Morris Heights,1
-16,Fordham,1
+15,Morris Heights,2
+16,Fordham,2
 17,East Tremont,2
 18,West Farms,1
 19,High  Bridge,1
 20,Melrose,2
 21,Mott Haven,1
-22,Port Morris,2
-23,Longwood,1
+22,Port Morris,1
+23,Longwood,2
 24,Hunts Point,2
-25,Morrisania,1
-26,Soundview,1
-27,Clason Point,1
-28,Throgs Neck,1
-29,Country Club,1
+25,Morrisania,2
+26,Soundview,2
+27,Clason Point,2
+28,Throgs Neck,2
+29,Country Club,2
 30,Parkchester,1
 31,Westchester Square,1
 32,Van Nest,2
-33,Morris Park,1
-34,Belmont,2
+33,Morris Park,2
+34,Belmont,1
 35,Spuyten Duyvil,2
 36,North Riverdale,2
 37,Pelham Bay,2
-38,Schuylerville,1
+38,Schuylerville,2
 39,Edgewater Park,2
 40,Castle Hill,2
-41,Olinville,1
-42,Pelham Gardens,1
+41,Olinville,2
+42,Pelham Gardens,2
 43,Concourse,1
 44,Unionport,2
 45,Edenwald,2
-46,Bay Ridge,1
-47,Bensonhurst,1
+46,Bay Ridge,2
+47,Bensonhurst,2
 48,Sunset Park,2
-49,Greenpoint,2
+49,Greenpoint,1
 50,Gravesend,2
 51,Brighton Beach,1
-52,Sheepshead Bay,1
+52,Sheepshead Bay,2
 53,Manhattan Terrace,1
 54,Flatbush,1
 55,Crown Heights,1
-56,East Flatbush,1
+56,East Flatbush,2
 57,Kensington,1
 58,Windsor Terrace,1
 59,Prospect Heights,1
-60,Brownsville,2
-61,Williamsburg,0
-62,Bushwick,2
-63,Bedford Stuyvesant,2
-64,Brooklyn Heights,0
+60,Brownsville,1
+61,Williamsburg,1
+62,Bushwick,1
+63,Bedford Stuyvesant,1
+64,Brooklyn Heights,1
 65,Cobble Hill,1
 66,Carroll Gardens,1
-67,Red Hook,2
-68,Gowanus,1
-69,Fort Greene,0
-70,Park Slope,2
-71,Cypress Hills,2
+67,Red Hook,1
+68,Gowanus,2
+69,Fort Greene,1
+70,Park Slope,1
+71,Cypress Hills,1
 72,East New York,1
-73,Starrett City,1
-74,Canarsie,1
-75,Flatlands,1
-76,Mill Island,1
-77,Manhattan Beach,1
-78,Coney Island,1
+73,Starrett City,2
+74,Canarsie,2
+75,Flatlands,2
+76,Mill Island,2
+77,Manhattan Beach,2
+78,Coney Island,2
 79,Bath Beach,2
 80,Borough Park,2
 81,Dyker Heights,1
 82,Gerritsen Beach,2
-83,Marine Park,1
-84,Clinton Hill,2
+83,Marine Park,2
+84,Clinton Hill,1
 85,Sea Gate,2
-86,Downtown,0
-87,Boerum Hill,0
-88,Prospect Lefferts Gardens,2
+86,Downtown,1
+87,Boerum Hill,1
+88,Prospect Lefferts Gardens,1
 89,Ocean Hill,1
-90,City Line,1
-91,Bergen Beach,1
-92,Midwood,1
+90,City Line,2
+91,Bergen Beach,2
+92,Midwood,2
 93,Prospect Park South,1
-94,Georgetown,1
-95,East Williamsburg,2
-96,North Side,2
-97,South Side,0
-98,Ocean Parkway,2
-99,Fort Hamilton,2
+94,Georgetown,2
+95,East Williamsburg,1
+96,North Side,1
+97,South Side,1
+98,Ocean Parkway,1
+99,Fort Hamilton,1
 100,Chinatown,1
 101,Washington Heights,1
-102,Inwood,2
+102,Inwood,1
 103,Hamilton Heights,1
 104,Manhattanville,2
-105,Central Harlem,2
-106,East Harlem,2
-107,Upper East Side,0
-108,Yorkville,0
-109,Lenox Hill,0
-110,Roosevelt Island,2
-111,Upper West Side,0
-112,Lincoln Square,0
-113,Clinton,0
-114,Midtown,0
-115,Murray Hill,0
-116,Chelsea,0
-117,Greenwich Village,0
-118,East Village,0
+105,Central Harlem,1
+106,East Harlem,1
+107,Upper East Side,1
+108,Yorkville,1
+109,Lenox Hill,1
+110,Roosevelt Island,1
+111,Upper West Side,1
+112,Lincoln Square,1
+113,Clinton,1
+114,Midtown,1
+115,Murray Hill,1
+116,Chelsea,1
+117,Greenwich Village,1
+118,East Village,1
 119,Lower East Side,2
-120,Tribeca,0
-121,Little Italy,0
-122,Soho,0
-123,West Village,0
-124,Manhattan Valley,2
-125,Morningside Heights,0
-126,Gramercy,0
+120,Tribeca,1
+121,Little Italy,1
+122,Soho,1
+123,West Village,1
+124,Manhattan Valley,1
+125,Morningside Heights,1
+126,Gramercy,1
 127,Battery Park City,1
-128,Financial District,0
+128,Financial District,1
 129,Astoria,1
 130,Woodside,1
-131,Jackson Heights,2
+131,Jackson Heights,1
 132,Elmhurst,1
-133,Howard Beach,2
+133,Howard Beach,1
 134,Corona,1
-135,Forest Hills,1
+135,Forest Hills,0
 136,Kew Gardens,1
-137,Richmond Hill,1
-138,Flushing,2
+137,Richmond Hill,0
+138,Flushing,1
 139,Long Island City,1
 140,Sunnyside,1
-141,East Elmhurst,1
-142,Maspeth,2
+141,East Elmhurst,0
+142,Maspeth,1
 143,Ridgewood,1
-144,Glendale,2
+144,Glendale,1
 145,Rego Park,1
-146,Woodhaven,1
+146,Woodhaven,0
 147,Ozone Park,1
-148,South Ozone Park,1
-149,College Point,2
+148,South Ozone Park,0
+149,College Point,0
 150,Whitestone,1
-151,Bayside,2
+151,Bayside,0
 152,Auburndale,1
 153,Little Neck,1
-154,Douglaston,1
+154,Douglaston,0
 155,Glen Oaks,1
-156,Bellerose,1
-157,Kew Gardens Hills,2
-158,Fresh Meadows,1
-159,Briarwood,1
+156,Bellerose,0
+157,Kew Gardens Hills,0
+158,Fresh Meadows,0
+159,Briarwood,0
 160,Jamaica Center,1
-161,Oakland Gardens,1
-162,Queens Village,1
-163,Hollis,1
-164,South Jamaica,1
-165,St. Albans,1
-166,Rochdale,1
-167,Springfield Gardens,2
-168,Cambria Heights,1
-169,Rosedale,1
-170,Far Rockaway,1
-171,Broad Channel,1
-172,Breezy Point,1
+161,Oakland Gardens,0
+162,Queens Village,0
+163,Hollis,0
+164,South Jamaica,0
+165,St. Albans,0
+166,Rochdale,0
+167,Springfield Gardens,1
+168,Cambria Heights,0
+169,Rosedale,0
+170,Far Rockaway,0
+171,Broad Channel,0
+172,Breezy Point,0
 173,Steinway,1
-174,Beechhurst,1
-175,Bay Terrace,2
-176,Edgemere,1
-177,Arverne,1
+174,Beechhurst,0
+175,Bay Terrace,0
+176,Edgemere,0
+177,Arverne,0
 178,Rockaway Beach,1
-179,Neponsit,1
-180,Murray Hill,0
-181,Floral Park,1
-182,Holliswood,1
-183,Jamaica Estates,1
-184,Queensboro Hill,2
-185,Hillcrest,2
+179,Neponsit,0
+180,Murray Hill,1
+181,Floral Park,0
+182,Holliswood,0
+183,Jamaica Estates,0
+184,Queensboro Hill,1
+185,Hillcrest,1
 186,Ravenswood,1
-187,Lindenwood,1
-188,Laurelton,1
-189,Lefrak City,2
-190,Belle Harbor,1
-191,Rockaway Park,2
-192,Somerville,1
-193,Brookville,1
-194,Bellaire,2
-195,North Corona,2
-196,Forest Hills Gardens,2
+187,Lindenwood,0
+188,Laurelton,0
+189,Lefrak City,0
+190,Belle Harbor,0
+191,Rockaway Park,1
+192,Somerville,0
+193,Brookville,0
+194,Bellaire,0
+195,North Corona,1
+196,Forest Hills Gardens,1
 197,St. George,1
-198,New Brighton,1
-199,Stapleton,1
-200,Rosebank,1
-201,West Brighton,1
-202,Grymes Hill,1
-203,Todt Hill,1
-204,South Beach,1
-205,Port Richmond,1
-206,Mariner's Harbor,1
-207,Port Ivory,1
-208,Castleton Corners,1
-209,New Springville,1
-210,Travis,1
-211,New Dorp,1
-212,Oakwood,1
-213,Great Kills,1
-214,Eltingville,1
-215,Annadale,1
-216,Woodrow,1
-217,Tottenville,1
-218,Tompkinsville,1
-219,Silver Lake,1
+198,New Brighton,0
+199,Stapleton,0
+200,Rosebank,0
+201,West Brighton,0
+202,Grymes Hill,0
+203,Todt Hill,0
+204,South Beach,0
+205,Port Richmond,0
+206,Mariner's Harbor,0
+207,Port Ivory,0
+208,Castleton Corners,0
+209,New Springville,0
+210,Travis,0
+211,New Dorp,0
+212,Oakwood,0
+213,Great Kills,0
+214,Eltingville,0
+215,Annadale,0
+216,Woodrow,0
+217,Tottenville,0
+218,Tompkinsville,0
+219,Silver Lake,0
 220,Sunnyside,1
 221,Ditmas Park,2
 222,Wingate,2
-223,Rugby,2
-224,Park Hill,1
-225,Westerleigh,2
-226,Graniteville,1
-227,Arlington,1
-228,Arrochar,1
-229,Grasmere,1
-230,Old Town,1
-231,Dongan Hills,1
-232,Midland Beach,1
-233,Grant City,1
-234,New Dorp Beach,1
-235,Bay Terrace,2
-236,Huguenot,1
-237,Pleasant Plains,1
-238,Butler Manor,1
-239,Charleston,1
-240,Rossville,1
-241,Arden Heights,1
-242,Greenridge,1
-243,Heartland Village,1
-244,Chelsea,0
-245,Bloomfield,1
-246,Bulls Head,1
-247,Carnegie Hill,0
-248,Noho,0
-249,Civic Center,0
-250,Midtown South,0
-251,Richmond Town,1
-252,Shore Acres,1
-253,Clifton,1
-254,Concord,2
-255,Emerson Hill,1
-256,Randall Manor,2
-257,Howland Hook,1
-258,Elm Park,2
-259,Remsen Village,1
-260,New Lots,1
+223,Rugby,1
+224,Park Hill,0
+225,Westerleigh,0
+226,Graniteville,0
+227,Arlington,0
+228,Arrochar,0
+229,Grasmere,0
+230,Old Town,0
+231,Dongan Hills,0
+232,Midland Beach,0
+233,Grant City,0
+234,New Dorp Beach,0
+235,Bay Terrace,0
+236,Huguenot,0
+237,Pleasant Plains,0
+238,Butler Manor,0
+239,Charleston,0
+240,Rossville,0
+241,Arden Heights,0
+242,Greenridge,0
+243,Heartland Village,0
+244,Chelsea,1
+245,Bloomfield,0
+246,Bulls Head,0
+247,Carnegie Hill,1
+248,Noho,1
+249,Civic Center,1
+250,Midtown South,1
+251,Richmond Town,0
+252,Shore Acres,0
+253,Clifton,0
+254,Concord,0
+255,Emerson Hill,0
+256,Randall Manor,0
+257,Howland Hook,0
+258,Elm Park,0
+259,Remsen Village,2
+260,New Lots,2
 261,Paerdegat Basin,2
 262,Mill Basin,2
-263,Jamaica Hills,2
+263,Jamaica Hills,0
 264,Utopia,1
-265,Pomonok,2
-266,Astoria Heights,2
+265,Pomonok,1
+266,Astoria Heights,1
 267,Claremont Village,2
-268,Concourse Village,2
+268,Concourse Village,1
 269,Mount Eden,2
 270,Mount Hope,2
-271,Sutton Place,0
+271,Sutton Place,1
 272,Hunters Point,1
-273,Turtle Bay,0
-274,Tudor City,0
-275,Stuyvesant Town,0
-276,Flatiron,0
-277,Sunnyside Gardens,2
-278,Blissville,1
-279,Fulton Ferry,1
+273,Turtle Bay,1
+274,Tudor City,1
+275,Stuyvesant Town,1
+276,Flatiron,1
+277,Sunnyside Gardens,1
+278,Blissville,0
+279,Fulton Ferry,2
 280,Vinegar Hill,1
-281,Weeksville,2
+281,Weeksville,1
 282,Broadway Junction,1
-283,Dumbo,2
-284,Manor Heights,1
-285,Willowbrook,2
-286,Sandy Ground,1
-287,Egbertville,1
-288,Roxbury,1
+283,Dumbo,1
+284,Manor Heights,0
+285,Willowbrook,0
+286,Sandy Ground,0
+287,Egbertville,0
+288,Roxbury,0
 289,Homecrest,1
 290,Middle Village,1
-291,Prince's Bay,2
-292,Lighthouse Hill,2
-293,Richmond Valley,2
-294,Malba,2
+291,Prince's Bay,0
+292,Lighthouse Hill,0
+293,Richmond Valley,0
+294,Malba,0
 295,Highland Park,2
 296,Madison,2
 297,Bronxdale,2
 298,Allerton,2
 299,Kingsbridge Heights,2
-300,Erasmus,2
-301,Hudson Yards,2
-302,Hammels,2
-303,Bayswater,2
-304,Queensbridge,2
-305,Fox Hills,2
+300,Erasmus,1
+301,Hudson Yards,1
+302,Hammels,1
+303,Bayswater,0
+304,Queensbridge,1
+305,Fox Hills,0
