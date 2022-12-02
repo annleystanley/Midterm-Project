@@ -1,34 +1,88 @@
-Neighbourhood,Month,Day,Ride Count
-Borough Park,111,239,15
-Bronx Park and Fordham,16,28,2
-Bushwick and Williamsburg,1224,2526,165
-Central Brooklyn (Bedford Stuyvesant – Crown Heights),1404,3271,200
-Central Harlem,642,1583,90
-Central Queens,4,26,1
-Chelsea and Clinton,29817,70550,4414
-Crotona and Tremont,7,27,1
-East Harlem,681,1641,97
-East New York and New Lots,7,18,1
-Flatbush,145,391,23
-Gramercy Park and Murray Hill,19216,45705,2866
-Greenpoint,3497,8085,496
-Greenwich Village and Soho,19061,45346,2825
-HighBridge and Morrisania,152,295,21
-Hunts Point and Mott Haven,5,18,1
-Inwood and Washington Heights,257,578,35
-Jamaica,46,97,6
-Kingsbridge and Riverdale,65,88,9
-Long Island City and Astoria,947,2320,136
-Lower Manhattan,5505,13048,809
-North Queens,44,85,6
-Northwest Brooklyn ,6303,14834,899
-Southern Brooklyn,50,131,7
-Southwest Brooklyn,63,164,8
-Southwest Queens,8,11,1
-Stapleton and St. George,102,220,15
-Sunset Park,94,188,12
-Union Square and Lower East Side,12578,29070,1842
-Upper East Side,10300,24737,1532
-Upper West Side,6797,15869,991
-West Central Queens,41,116,6
-West Queens,360,909,49
+Neighbourhood,Ride Count
+Astoria Heights,11
+Bedford Stuyvesant,35
+Belmont,2
+Boerum Hill,153
+Borough Park,1
+Briarwood,1
+Brownsville,4
+Bushwick,28
+Bushwick and Williamsburg,49
+Carnegie Hill,326
+Central Harlem,33
+Chelsea and Clinton,1828
+Civic Center,978
+Clinton,558
+Clinton Hill,151
+Ditmas Park,11
+Dumbo,355
+East Harlem,97
+East Williamsburg,88
+Erasmus,7
+Financial District,196
+Flatiron,1068
+Flushing,4
+Forest Hills Gardens,1
+Fort Greene,120
+Fort Hamilton,7
+Fox Hills,4
+Gerritsen Beach,1
+Glendale,3
+Gramercy,557
+Greenpoint,156
+Greenwich Village,946
+Hamilton Heights,4
+HighBridge and Morrisania,15
+Highland Park,1
+Hillcrest,1
+Hudson Yards,970
+Hunts Point,1
+Inwood,3
+Inwood and Washington Heights,6
+Jackson Heights,1
+Jamaica,5
+Lefrak City,1
+Lenox Hill,200
+Lincoln Square,454
+Long Island City and Astoria,18
+Lower East Side,487
+Lower Manhattan,612
+Manhattan Valley,187
+Manhattanville,8
+Midtown,6
+Midtown South,721
+Morningside Heights,57
+Mount Eden,6
+Noho,883
+North Corona,27
+North Riverdale,6
+North Side,338
+Ocean Parkway,3
+Park Slope,153
+Prospect Lefferts Gardens,14
+Queensboro Hill,2
+Queensbridge,91
+Randall Manor,11
+Red Hook,117
+Roosevelt Island,12
+Rugby,2
+Sea Gate,6
+South Ozone Park,1
+South Side,2
+Southwest Brooklyn,1
+Spuyten Duyvil,3
+Stuyvesant Town,409
+Sunnyside Gardens,4
+Sunset Park,12
+Sutton Place,333
+Tudor City,607
+Turtle Bay,965
+Upper East Side,673
+Upper West Side,346
+Van Nest,1
+Washington Heights,18
+Weeksville,4
+West Central Queens,2
+West Queens,20
+West Village,965
+Wingate,7
